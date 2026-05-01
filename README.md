@@ -1,13 +1,13 @@
-<!-- 🔥 HEADER -->
+<!-- 🔥 SUPER COOL HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Dhanush&fontSize=45&color=0:141E30,50:243B55,100:0F2027&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=260&text=Dhanush&fontSize=50&fontColor=ffffff&animation=twinkling&color=0:000000,25:0f2027,50:203a43,75:2c5364,100:000000"/>
 </p>
 
-<!-- ⚡ TYPING -->
+<!-- ⚡ TYPING EFFECT -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=38F7FF&center=true&vCenter=true&width=700&lines=Code.+Build.+Repeat.;Future+DevOps+Engineer;Creating+Real+Projects+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=🚀+Accelerating+Through+Code...;⚙️+DevOps+in+Progress;💻+Building+Real+Projects" />
 </p>
 
 ---
