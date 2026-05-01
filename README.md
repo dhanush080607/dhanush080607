@@ -1,72 +1,75 @@
-<!-- 🔥 CUSTOM BANNER -->
+<!-- 🔥 CINEMATIC HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Dhanush&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Dhanush&fontSize=45&color=0:141E30,50:243B55,100:0F2027&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<!-- 🔥 TYPING HERO -->
+<!-- ⚡ TYPING EFFECT -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+cool+things+with+code;Future+DevOps+Engineer;Always+learning+something+new+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&pause=700&color=38F7FF&center=true&vCenter=true&width=700&lines=Code.+Build.+Repeat.;Future+DevOps+Engineer;Turning+Ideas+into+Projects+🚀" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 Identity
 
-```yaml
+```yaml id="id9skc"
 name: Dhanush
-role: Aspiring Developer
-focus: DevOps + Software Development
-learning: [Python, Git, Cloud, Web]
-goal: Build real-world projects 🚀
+role: Developer in Progress
+specialization: DevOps | Software
+current_focus:
+  - Python
+  - Git & GitHub
+  - Cloud Basics
+mission: Build real-world impactful projects
 ```
 
 ---
 
-## ⚙️ Tech Arsenal
+## 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,css,linux&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=python,git,github,linux,docker,vscode,html,css&perline=8"/>
 </p>
 
 ---
 
-## 📊 Stats (Live)
+## 📊 Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&title_color=38F7FF&text_color=ffffff&icon_color=38F7FF"/>
   <br>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&ring=38F7FF&fire=38F7FF&currStreakLabel=38F7FF"/>
 </p>
 
 ---
 
-## 📈 Contribution Heatmap
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Projects
 
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project1&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project1&theme=transparent"/>
   </a>
   <a href="https://github.com/YOUR_USERNAME/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project2&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project2&theme=transparent"/>
   </a>
 </p>
 
 ---
 
-## 🧩 Dev Mindset
+## 🌌 Dev Philosophy
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </p>
 
 ---
@@ -75,10 +78,10 @@ goal: Build real-world projects 🚀
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-38F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=red"/>
+    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -87,5 +90,5 @@ goal: Build real-world projects 🚀
 <!-- 🔥 FOOTER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,50:203A43,100:2C5364"/>
 </p>
