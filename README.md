@@ -1,7 +1,7 @@
 <!-- 🔥 ULTRA COOL ANIMATED HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=280&text=Dhanush&fontSize=60&fontColor=ffffff&animation=twinkling&desc=⚡+DevOps+Engineer+in+Progress+⚡&descSize=20&descAlign=50&color=0:000000,20:0f2027,40:203a43,60:2c5364,80:203a43,100:000000"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=280&text=Dhanush&fontSize=60&fontColor=ffffff&animation=twinkling&desc=⚡+Aspiring+Developer+in+Progress+⚡&descSize=20&descAlign=50&color=0:000000,20:0f2027,40:203a43,60:2c5364,80:203a43,100:000000"/>
 </p>
 
 <!-- ⚡ SUBTLE MOTION LINE -->
