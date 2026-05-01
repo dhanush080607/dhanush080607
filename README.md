@@ -31,40 +31,24 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanush080607&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush080607&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhanush080607&show_icons=true&theme=tokyonight"/>
 </p>
-
----
 
 ## 🔥 Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dhanush080607&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=dhanush080607"/>
 </p>
-
 ---
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/dhanush080607/Content-Creator-Ai-Agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanush080607&repo=Content-Creator-Ai-Agent&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/dhanush080607/Temperature-Converter-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanush080607&repo=Temperature-Converter-Project&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
+## 🚀 Projects
 
-<p align="center">
-  <a href="https://github.com/dhanush080607/docker-python-webpage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanush080607&repo=docker-python-webpage&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/dhanush080607/Simple-Portfolio-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanush080607&repo=Simple-Portfolio-1&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
+- 🔹 [Content Creator AI Agent](https://github.com/dhanush080607/Content-Creator-Ai-Agent)
+- 🔹 [Temperature Converter](https://github.com/dhanush080607/Temperature-Converter-Project)
+- 🔹 [Docker Python Webpage](https://github.com/dhanush080607/docker-python-webpage)
+- 🔹 [Simple Portfolio](https://github.com/dhanush080607/Simple-Portfolio-1)
 
 ---
 
