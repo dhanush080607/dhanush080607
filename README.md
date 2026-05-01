@@ -1,13 +1,19 @@
-<!-- 🔥 SUPER COOL HEADER -->
+<!-- 🔥 ULTRA COOL ANIMATED HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=260&text=Dhanush&fontSize=50&fontColor=ffffff&animation=twinkling&color=0:000000,25:0f2027,50:203a43,75:2c5364,100:000000"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=280&text=Dhanush&fontSize=60&fontColor=ffffff&animation=twinkling&desc=⚡+DevOps+Engineer+in+Progress+⚡&descSize=20&descAlign=50&color=0:000000,20:0f2027,40:203a43,60:2c5364,80:203a43,100:000000"/>
+</p>
+
+<!-- ⚡ SUBTLE MOTION LINE -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=1&duration=2000&color=38F7FF&center=true&vCenter=true&width=1000&lines=................................................................................................................"/>
 </p>
 
 <!-- ⚡ TYPING EFFECT -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=🚀+Accelerating+Through+Code...;⚙️+DevOps+in+Progress;💻+Building+Real+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&color=38F7FF&center=true&vCenter=true&width=700&lines=Code.+Build.+Repeat.;Future+DevOps+Engineer;Creating+Real+Projects+🚀" />
 </p>
 
 ---
