@@ -105,7 +105,7 @@ goal: Build real-world impactful projects 🚀
 
 * Personal portfolio website
 * Built using HTML & CSS
-  🔗 https://github.com/dhanush080607/Simple-Portfolio-1
+  🔗 https://github.com/dhanush080607/dhanush-portfolio1
 
 ---
 
