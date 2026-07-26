@@ -42,6 +42,10 @@
 <img src="https://img.shields.io/badge/👤%20THE%20DRIVER-111111?style=for-the-badge&labelColor=8B0000"/>
 </a>
 
+<a href="#-the-world">
+<img src="https://img.shields.io/badge/🌍%20THE%20WORLD-111111?style=for-the-badge&labelColor=8B0000"/>
+</a>
+
 <a href="#-the-garage">
 <img src="https://img.shields.io/badge/🏎️%20THE%20GARAGE-111111?style=for-the-badge&labelColor=8B0000"/>
 </a>
@@ -50,8 +54,12 @@
 <img src="https://img.shields.io/badge/🏁%20THE%20TRACK-111111?style=for-the-badge&labelColor=8B0000"/>
 </a>
 
-<a href="#-the-engine">
+<a href="#️-the-engine">
 <img src="https://img.shields.io/badge/⚙️%20THE%20ENGINE-111111?style=for-the-badge&labelColor=8B0000"/>
+</a>
+
+<a href="#-telemetry">
+<img src="https://img.shields.io/badge/📊%20TELEMETRY-111111?style=for-the-badge&labelColor=8B0000"/>
 </a>
 
 <a href="#-connect">
@@ -227,13 +235,7 @@ Built to help people move faster from **"I need a job"** to **"I'm ready to appl
 
 ### ENGINE
 
-`Python`
-
-`Streamlit`
-
-`Gemini AI`
-
-`ReportLab`
+`Python` · `Streamlit` · `Gemini AI` · `ReportLab`
 
 ### FEATURES
 
@@ -657,15 +659,15 @@ PostgreSQL
 
 <p align="center">
 
-🌎   **BUILD LOCALLY**
+🌎 **BUILD LOCALLY**
 
-    →    
+   →   
 
-☁️   **DEPLOY GLOBALLY**
+☁️ **DEPLOY GLOBALLY**
 
-    →    
+   →   
 
-🚀   **REACH EVERYWHERE**
+🚀 **REACH EVERYWHERE**
 
 </p>
 
@@ -695,9 +697,23 @@ I believe technology becomes meaningful when
 
 <p align="center">
 
+### `LIVE DATA FROM THE JOURNEY`
+
+</p>
+
+<br>
+
+<!-- ======================= GITHUB STATS ========================== -->
+
+<p align="center">
+
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhanush080607&show_icons=true&theme=dark&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=050505"/>
 
 </p>
+
+<br>
+
+<!-- ======================= TOP LANGUAGES ========================= -->
 
 <p align="center">
 
@@ -705,9 +721,33 @@ I believe technology becomes meaningful when
 
 </p>
 
+<br>
+
+<!-- ======================= STREAK ================================ -->
+
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=dhanush080607&theme=dark&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=FF0000"/>
+
+</p>
+
+<br>
+
+<!-- ======================= ACTIVITY GRAPH ======================== -->
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanush080607&bg_color=050505&color=FFFFFF&line=FF0000&point=FF4444&area_color=8B0000&area=true&hide_border=true&custom_title=DHANUSH%20%2F%2F%20GITHUB%20ACTIVITY%20TELEMETRY"/>
+
+</p>
+
+<br>
+
+<!-- ======================= CONTRIBUTION SNAKE ==================== -->
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/dhanush080607/dhanush080607/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
