@@ -1,76 +1,85 @@
 <!-- ========================================================= -->
 
-<!--                    🌑 DHANUSH — COSMOS                    -->
+<!--                     DHANUSH • GITHUB                      -->
 
 <!-- ========================================================= -->
 
 <div align="center">
 
+<!-- 🌑 ANIMATED COSMIC HERO -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,30:050505,55:120008,75:5C0018,100:FF1744&text=DHANUSH&fontSize=95&fontColor=FFFFFF&animation=twinkling&fontAlignY=42&desc=AI%20%7C%20DATA%20%7C%20SOFTWARE&descSize=20&descAlignY=65"/>
+
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,25:050505,45:120008,65:4A0015,82:B30032,100:FF1744&text=DHANUSH&fontSize=100&fontColor=FFFFFF&animation=twinkling&fontAlignY=42&desc=AI%20%C2%B7%20DATA%20%C2%B7%20SOFTWARE&descSize=20&descAlignY=64"/>
+<!-- ⚡ REAL TYPING ANIMATION -->
 
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=18&duration=3200&pause=1000&color=FF1744&center=true&vCenter=true&width=850&lines=ENTERING+THE+UNKNOWN...;EXPLORING+AI+%26+DATA...;BUILDING+REAL+THINGS...;LEARNING+THROUGH+CREATION...;THE+JOURNEY+HAS+JUST+BEGUN."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=FF1744&center=true&vCenter=true&width=850&lines=EXPLORING+THE+WORLD+OF+AI...;TURNING+DATA+INTO+INSIGHTS...;BUILDING+REAL+PROJECTS...;LEARNING+BY+CREATING...;THE+JOURNEY+IS+JUST+BEGINNING."/>
 
 <br><br>
 
+<img src="https://komarev.com/ghpvc/?username=dhanush080607&style=for-the-badge&color=FF1744&label=PROFILE+VISITORS"/>
+
 </div>
+
+<br>
 
 ---
 
 <div align="center">
 
-# 🌑 THE ECLIPSE
-
-### Every journey begins in the dark.
+## 🌑 FROM DARKNESS TO CREATION
 
 <br>
 
-> **I build. I experiment. I learn. I evolve.**
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20CREATE&fontSize=26&fontColor=FF1744&animation=twinkling"/>
+
+</div>
 
 <br>
 
-I'm **Dhanush**, a Computer Science & Engineering — Data Science student exploring the intersection of **Artificial Intelligence, Data Science, Machine Learning, and Software Development**.
+I'm **Dhanush**, a Computer Science & Engineering — Data Science student who enjoys exploring technology by building real projects.
 
-I learn by creating real projects, solving problems, breaking things, understanding why they broke, and building them again — better.
+My interests are constantly evolving, but my direction remains the same:
+
+> **Take an idea → build it → understand it → improve it.**
+
+I'm currently exploring the intersection of:
+
+**Artificial Intelligence · Data Science · Machine Learning · Software Development**
 
 <br>
+
+<div align="center">
 
 `AI`   ✦   `DATA`   ✦   `MACHINE LEARNING`   ✦   `SOFTWARE`
 
 </div>
 
-<br><br>
+<br>
 
 ---
 
 <div align="center">
 
-# 🌌 ENTER THE GALAXY
-
-### A universe of ideas, experiments, and things I'm building.
+## 🌌 MY DIGITAL UNIVERSE
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=EXPLORE%20%E2%80%A2%20BUILD%20%E2%80%A2%20LEARN&fontSize=28&fontColor=FF1744&animation=twinkling"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=7C4DFF&center=true&vCenter=true&width=800&lines=EXPLORE+IDEAS.;BUILD+SYSTEMS.;SOLVE+PROBLEMS.;CREATE+SOMETHING+USEFUL."/>
 
-</div>
+<br><br>
 
-<br>
-
-<table align="center">
+<table>
 <tr>
 
 <td align="center" width="25%">
 
 ### 🤖
 
-**ARTIFICIAL
-INTELLIGENCE**
+**AI**
 
-Exploring how intelligent systems can solve real-world problems.
+Exploring Generative AI and intelligent applications.
 
 </td>
 
@@ -80,7 +89,7 @@ Exploring how intelligent systems can solve real-world problems.
 
 **DATA**
 
-Finding patterns, understanding information, and turning data into insights.
+Working with data to discover patterns and insights.
 
 </td>
 
@@ -88,10 +97,9 @@ Finding patterns, understanding information, and turning data into insights.
 
 ### 🧠
 
-**MACHINE
-LEARNING**
+**ML**
 
-Building systems that learn from data and make predictions.
+Learning how machines learn from data.
 
 </td>
 
@@ -101,12 +109,14 @@ Building systems that learn from data and make predictions.
 
 **SOFTWARE**
 
-Turning ideas into applications that people can actually use.
+Turning ideas into applications people can use.
 
 </td>
 
 </tr>
 </table>
+
+</div>
 
 <br>
 
@@ -114,15 +124,13 @@ Turning ideas into applications that people can actually use.
 
 <div align="center">
 
-# ✨ THE CONSTELLATIONS
+## ✨ PROJECTS IN ORBIT
 
-### Projects that became stars along the journey.
+### Real projects. Real experiments. Continuous learning.
 
 </div>
 
 <br>
-
-<!-- ================= PROJECT 01 ================= -->
 
 <table>
 <tr>
@@ -131,11 +139,7 @@ Turning ideas into applications that people can actually use.
 
 <div align="center">
 
-## 🔴 AI RESUME STUDIO
-
-### *Your career. Powered by AI.*
-
-<br>
+## 🤖 AI RESUME STUDIO
 
 <img src="https://img.shields.io/badge/●%20LIVE-00C853?style=for-the-badge&labelColor=080808"/>
 
@@ -143,76 +147,40 @@ Turning ideas into applications that people can actually use.
 
 <br>
 
-An AI-powered career assistant designed to help people create stronger job applications.
+An AI-powered career assistant that helps users create better job applications.
 
-Generate resumes, create personalised cover letters, analyse ATS compatibility, and discover areas for improvement — all in one place.
-
-<br>
-
-**THE SYSTEM**
-
-`Resume Generation`
-`Cover Letter AI`
-`ATS Analysis`
-`Career Insights`
-`PDF Export`
+Generate professional resume content, create personalised cover letters, analyse ATS compatibility, and receive career insights.
 
 <br>
 
-**POWERED BY**
+**FEATURES**
 
-`Python` · `Streamlit` · `Gemini AI` · `ReportLab`
+* AI Resume Generation
+* AI Cover Letter Generation
+* ATS Compatibility Analysis
+* Career Insights
+* Missing Skill Detection
+* PDF Export
+
+<br>
+
+**TECHNOLOGY**
+
+`Python` `Streamlit` `Gemini AI` `ReportLab`
 
 <br>
 
 <div align="center">
 
 <a href="https://ai-resume-generator-project.streamlit.app/">
-
-<img src="https://img.shields.io/badge/ENTER%20THE%20SYSTEM-FF1744?style=for-the-badge&labelColor=080808"/>
-
+<img src="https://img.shields.io/badge/OPEN%20LIVE%20APP-FF1744?style=for-the-badge&labelColor=080808"/>
 </a>
 
-</div>
+ 
 
-</td>
-
-<td width="50%" valign="middle">
-
-<div align="center">
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=220&text=AI%20%E2%9C%A6%20RESUME&fontSize=38&fontColor=FF1744&animation=twinkling"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/GEN_AI-FF1744?style=for-the-badge&labelColor=080808"/>
-<img src="https://img.shields.io/badge/CAREER-7C4DFF?style=for-the-badge&labelColor=080808"/>
-
-</div>
-
-</td>
-
-</tr>
-</table>
-
-<br><br>
-
-<!-- ================= PROJECT 02 ================= -->
-
-<table>
-<tr>
-
-<td width="50%" valign="middle">
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=220&text=INSIGHTAI&fontSize=42&fontColor=7C4DFF&animation=twinkling"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/BUILDING-FFB300?style=for-the-badge&labelColor=080808"/>
+<a href="https://github.com/dhanush080607/AI-Resume-Generator">
+<img src="https://img.shields.io/badge/SOURCE-FFFFFF?style=for-the-badge&labelColor=080808"/>
+</a>
 
 </div>
 
@@ -224,62 +192,61 @@ Generate resumes, create personalised cover letters, analyse ATS compatibility, 
 
 ## 🧠 INSIGHTAI
 
-### *From raw data to intelligent insights.*
+<img src="https://img.shields.io/badge/●%20BUILDING-FFB300?style=for-the-badge&labelColor=080808"/>
 
 </div>
 
 <br>
 
-An AI-powered data analytics platform I'm building to transform datasets into meaningful insights.
-
-Upload data.
-
-Explore it.
-
-Visualise it.
-
-Understand it.
-
-Predict what comes next.
+An AI-powered data analytics platform designed to turn raw datasets into meaningful insights.
 
 <br>
 
-**THE VISION**
+**PLANNED FEATURES**
 
-`Dataset Upload`
-`Data Exploration`
-`Interactive Visualisation`
-`AI Insights`
-`Machine Learning`
-`Model Comparison`
-`Predictions`
+* CSV & Excel Upload
+* Data Exploration
+* Interactive Visualisation
+* AI-Generated Insights
+* Machine Learning
+* Model Comparison
+* Predictions
 
 <br>
 
-**THE UNIVERSE**
+**TECHNOLOGY**
 
-`React` · `Vite` · `FastAPI` · `Python`
-`Pandas` · `Scikit-learn` · `Gemini AI`
+`React` `Vite` `FastAPI` `Python`
+
+`Pandas` `Scikit-learn` `Gemini AI`
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&duration=2200&pause=700&color=7C4DFF&center=true&vCenter=true&width=420&lines=FRONTEND+%E2%9C%93;BACKEND+%E2%9F%B3;AI+%E2%9F%B3;MACHINE+LEARNING+%E2%9F%B3"/>
+
+</div>
 
 </td>
 
 </tr>
 </table>
 
-<br><br>
+<br>
 
-<table align="center">
+<table>
 <tr>
 
 <td width="50%" valign="top">
 
 <div align="center">
 
-## ⚡ CONTENT CREATOR AI
+### ⚡ CONTENT CREATOR AI AGENT
 
 </div>
 
-An AI-powered content generation project built while exploring intelligent automation and Generative AI.
+AI-powered content generation and automation project built with Python and Gemini AI.
 
 <br>
 
@@ -299,11 +266,11 @@ An AI-powered content generation project built while exploring intelligent autom
 
 <div align="center">
 
-## 🐳 DOCKER PYTHON
+### 🐳 DOCKER PYTHON WEBPAGE
 
 </div>
 
-A Python web project exploring containerisation, Docker, and deployment workflows.
+A Python web application created while exploring Docker containerisation and deployment.
 
 <br>
 
@@ -328,33 +295,33 @@ A Python web project exploring containerisation, Docker, and deployment workflow
 
 <div align="center">
 
-# 🕳️ ENTERING THE UNKNOWN
-
-### The most interesting things are the ones we haven't built yet.
+## 🕳️ CURRENTLY BUILDING
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=INSIGHTAI&fontSize=58&fontColor=FF1744&animation=twinkling"/>
-
-<br>
-
-**CURRENTLY BUILDING**
-
-<br>
-
-`GENERATIVE AI`   ✦   `MACHINE LEARNING`   ✦   `DATA SCIENCE`
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=FF1744&center=true&vCenter=true&width=800&lines=INSIGHTAI;GENERATIVE+AI;MACHINE+LEARNING;DATA+SCIENCE;BACKEND+SYSTEMS"/>
 
 <br><br>
 
-I'm exploring how data, AI, and machine learning can come together to create useful products.
+### INSIGHTAI
 
-The goal is not just to build another application.
-
-The goal is to build something that makes **complex information easier to understand**.
+**Turning raw data into intelligent insights.**
 
 <br>
 
-**THE NEXT SYSTEM IS STILL LOADING...**
+I'm building InsightAI to bring together:
+
+`Data Analytics` + `Visualisation` + `Artificial Intelligence` + `Machine Learning`
+
+<br>
+
+The goal:
+
+**Upload → Understand → Visualise → Analyse → Predict**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:080808,50:240008,100:FF1744&text=THE%20NEXT%20SYSTEM%20IS%20LOADING...&fontSize=20&fontColor=FFFFFF&animation=twinkling"/>
 
 </div>
 
@@ -364,81 +331,34 @@ The goal is to build something that makes **complex information easier to unders
 
 <div align="center">
 
-# 🌠 THE LIGHT TRAIL
-
-### A journey through the technologies that brought me here.
+## 🌠 TECHNOLOGY STACK
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=WEB%20%E2%86%92%20PYTHON%20%E2%86%92%20DATA%20%E2%86%92%20ML%20%E2%86%92%20AI&fontSize=24&fontColor=FFFFFF&animation=fadeIn"/>
+<img src="https://skillicons.dev/icons?i=python,c,java,javascript,html,css,react,vite,tailwind,nodejs,fastapi,postgresql,docker,git,github,linux,vscode,figma&perline=9"/>
 
 <br><br>
 
-<table align="center">
-<tr>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=2400&pause=700&color=00E5FF&center=true&vCenter=true&width=750&lines=PYTHON+%7C+AI+%7C+DATA+SCIENCE;REACT+%7C+FASTAPI+%7C+POSTGRESQL;GIT+%7C+GITHUB+%7C+DOCKER;ALWAYS+LEARNING+SOMETHING+NEW"/>
 
-<td align="center">
-
-### 🌐
-
-**WEB**
-
-HTML
-CSS
-JavaScript
-React
-
-</td>
-
-<td align="center">→</td>
-
-<td align="center">
-
-### 🐍
-
-**PYTHON**
-
-Python
-Pandas
-NumPy
-
-</td>
-
-<td align="center">→</td>
-
-<td align="center">
-
-### 📊
-
-**DATA**
-
-Analytics
-Visualisation
-Statistics
-
-</td>
-
-<td align="center">→</td>
-
-<td align="center">
-
-### 🧠
-
-**ML / AI**
-
-Scikit-learn
-Gemini
-Generative AI
-
-</td>
-
-</tr>
-</table>
+</div>
 
 <br>
 
-> **The destination is unknown.**
+---
 
+<div align="center">
+
+## 🚀 THE JOURNEY
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=17&duration=2800&pause=900&color=FF1744&center=true&vCenter=true&width=800&lines=WEB+DEVELOPMENT+%E2%86%92;PYTHON+%E2%86%92;DATA+SCIENCE+%E2%86%92;MACHINE+LEARNING+%E2%86%92;ARTIFICIAL+INTELLIGENCE+%E2%86%92;NEXT+CHAPTER%3F"/>
+
+<br><br>
+
+> **The destination is unknown.**
+>
 > **That's what makes the journey interesting.**
 
 </div>
@@ -449,49 +369,7 @@ Generative AI
 
 <div align="center">
 
-# 🌍 THE WORLD IS CONNECTED
-
-### Technology has no borders.
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=160&text=BUILD%20%E2%80%A2%20CONNECT%20%E2%80%A2%20CREATE&fontSize=34&fontColor=00E5FF&animation=twinkling"/>
-
-<br>
-
-I'm interested in technology that connects people, ideas, and information.
-
-From AI systems to data platforms, from small experiments to larger products —
-
-**I'm building my place in a world that never stops evolving.**
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-# 🧰 THE TOOLS BEHIND THE JOURNEY
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,c,java,javascript,html,css,react,vite,tailwind,nodejs,fastapi,postgresql,docker,git,github,linux,vscode,figma&perline=9"/>
-
-<br><br>
-
-`PYTHON` · `REACT` · `FASTAPI` · `POSTGRESQL` · `DOCKER` · `GIT` · `GITHUB`
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-# 📡 SIGNAL FROM THE JOURNEY
+## 📡 GITHUB SIGNAL
 
 <br>
 
@@ -501,6 +379,10 @@ From AI systems to data platforms, from small experiments to larger products —
 
 <img src="https://streak-stats.demolab.com?user=dhanush080607&hide_border=true&background=080808&ring=FF1744&fire=FF1744&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=777777"/>
 
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanush080607&bg_color=080808&color=FFFFFF&line=FF1744&point=7C4DFF&area=true&hide_border=true"/>
+
 </div>
 
 <br>
@@ -509,38 +391,36 @@ From AI systems to data platforms, from small experiments to larger products —
 
 <div align="center">
 
-# 🌅 THE HORIZON
-
-### Every ending is just another beginning.
+## 🌍 CONNECT
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050505,30:180008,55:5C0018,75:B00035,100:FF1744&text=KEEP%20BUILDING&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=48&desc=THE%20NEXT%20CHAPTER%20IS%20LOADING...&descSize=17&descAlignY=68"/>
-
-<br>
-
-**If you're building something interesting, let's connect.**
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2600&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=BUILDING+SOMETHING%3F;HAVE+AN+IDEA%3F;LET'S+CONNECT."/>
 
 <br><br>
 
 <a href="https://github.com/dhanush080607">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
  
 
 <a href="https://www.linkedin.com/in/h-dhanush-189565327">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
 
  
 
 <a href="mailto:h.dhanush2007@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/EMAIL-D50000?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 </a>
 
 <br><br>
 
-<sub>© 2026 Dhanush · Built in the dark. Shaped by curiosity. Moving towards the light.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:FF1744,30:B00035,60:5C0018,100:050505&section=footer&animation=twinkling"/>
+
+<br>
+
+<sub>© 2026 Dhanush · Always building. Always learning.</sub>
 
 </div>
