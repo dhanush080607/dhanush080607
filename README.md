@@ -42,10 +42,6 @@
 <img src="https://img.shields.io/badge/👤%20THE%20DRIVER-111111?style=for-the-badge&labelColor=8B0000"/>
 </a>
 
-<a href="#-the-world">
-<img src="https://img.shields.io/badge/🌍%20THE%20WORLD-111111?style=for-the-badge&labelColor=8B0000"/>
-</a>
-
 <a href="#-the-garage">
 <img src="https://img.shields.io/badge/🏎️%20THE%20GARAGE-111111?style=for-the-badge&labelColor=8B0000"/>
 </a>
@@ -54,12 +50,8 @@
 <img src="https://img.shields.io/badge/🏁%20THE%20TRACK-111111?style=for-the-badge&labelColor=8B0000"/>
 </a>
 
-<a href="#️-the-engine">
+<a href="#-the-engine">
 <img src="https://img.shields.io/badge/⚙️%20THE%20ENGINE-111111?style=for-the-badge&labelColor=8B0000"/>
-</a>
-
-<a href="#-telemetry">
-<img src="https://img.shields.io/badge/📊%20TELEMETRY-111111?style=for-the-badge&labelColor=8B0000"/>
 </a>
 
 <a href="#-connect">
@@ -89,9 +81,9 @@ I want to **build with it**.
 
 My current world revolves around:
 
-🔴 Artificial Intelligence
-🔴 Data Science
-🔴 Machine Learning
+🔴 Artificial Intelligence  
+🔴 Data Science  
+🔴 Machine Learning  
 🔴 Software Development
 
 My journey is simple:
@@ -235,7 +227,13 @@ Built to help people move faster from **"I need a job"** to **"I'm ready to appl
 
 ### ENGINE
 
-`Python` · `Streamlit` · `Gemini AI` · `ReportLab`
+`Python`
+
+`Streamlit`
+
+`Gemini AI`
+
+`ReportLab`
 
 ### FEATURES
 
@@ -321,23 +319,23 @@ come together.
 
 📂 UPLOAD
 
-  →  
+&nbsp; → &nbsp;
 
 🔍 EXPLORE
 
-  →  
+&nbsp; → &nbsp;
 
 📊 ANALYSE
 
-  →  
+&nbsp; → &nbsp;
 
 📈 VISUALISE
 
-  →  
+&nbsp; → &nbsp;
 
 🤖 AI INSIGHTS
 
-  →  
+&nbsp; → &nbsp;
 
 🧠 ML PREDICTIONS
 
@@ -659,15 +657,15 @@ PostgreSQL
 
 <p align="center">
 
-🌎 **BUILD LOCALLY**
+🌎 &nbsp; **BUILD LOCALLY**
 
-   →   
+&nbsp;&nbsp;&nbsp; → &nbsp;&nbsp;&nbsp;
 
-☁️ **DEPLOY GLOBALLY**
+☁️ &nbsp; **DEPLOY GLOBALLY**
 
-   →   
+&nbsp;&nbsp;&nbsp; → &nbsp;&nbsp;&nbsp;
 
-🚀 **REACH EVERYWHERE**
+🚀 &nbsp; **REACH EVERYWHERE**
 
 </p>
 
@@ -697,33 +695,15 @@ I believe technology becomes meaningful when
 
 <p align="center">
 
-### `LIVE DATA FROM THE JOURNEY`
-
-</p>
-
-<br>
-
-<!-- ======================= GITHUB STATS ========================== -->
-
-<p align="center">
-
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhanush080607&show_icons=true&theme=dark&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=050505"/>
 
 </p>
 
-<br>
-
-<!-- ======================= TOP LANGUAGES ========================= -->
-
 <p align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhanush080607&layout=compact&theme=dark&hide_border=true&title_color=FF0000&text_color=FFFFFF&bg_color=050505"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhanush080607&layout=compact&theme=dark&hide_border=true&title_color=00E5FF&text_color=FFFFFF&bg_color=050505"/>
 
 </p>
-
-<br>
-
-<!-- ======================= STREAK ================================ -->
 
 <p align="center">
 
@@ -733,21 +713,17 @@ I believe technology becomes meaningful when
 
 <br>
 
-<!-- ======================= ACTIVITY GRAPH ======================== -->
+<h3 align="center">🔥 CONTRIBUTION ACTIVITY</h3>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanush080607&bg_color=050505&color=FFFFFF&line=FF0000&point=FF4444&area_color=8B0000&area=true&hide_border=true&custom_title=DHANUSH%20%2F%2F%20GITHUB%20ACTIVITY%20TELEMETRY"/>
+<i>Every commit is another step forward.</i>
 
 </p>
 
-<br>
-
-<!-- ======================= CONTRIBUTION SNAKE ==================== -->
-
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/dhanush080607/dhanush080607/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanush080607&bg_color=050505&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=true&custom_title=DHANUSH%20%2F%2F%20CONTRIBUTION%20GRAPH"/>
 
 </p>
 
