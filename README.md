@@ -1,67 +1,18 @@
-<!-- ================================================================ -->
+<!-- =============================================================== -->
 
-<!--                         DHANUSH                                  -->
+<!--                    DHANUSH // WORLD IN MOTION                   -->
 
-<!--               GITHUB PROFILE README — 2026                       -->
+<!-- =============================================================== -->
 
-<!-- ================================================================ -->
-
-<!-- ========================= HERO ================================= -->
+<!-- ========================== HERO =============================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,30:06131f,60:0c2d48,85:087ea4,100:00d9ff&text=DHANUSH&fontSize=85&fontColor=ffffff&fontAlignY=42&animation=twinkling&desc=BUILDING%20AI.%20EXPLORING%20DATA.%20CREATING%20SOFTWARE.&descSize=17&descAlignY=67"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=👋+Hey%2C+I'm+Dhanush;💻+Developer+%7C+Data+Science+Student;🤖+Exploring+Artificial+Intelligence;📊+Building+with+Data+%26+Machine+Learning;🚀+Turning+Ideas+Into+Real+Projects"/>
-</p>
-
-<br>
-
-<p align="center">
-
-<a href="https://github.com/dhanush080607">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://ai-resume-generator-project.streamlit.app/">
-<img src="https://img.shields.io/badge/LIVE%20PROJECT-AI%20RESUME%20STUDIO-00D9FF?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/h-dhanush-189565327">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=380&color=0:050505,25:160000,50:420000,75:8B0000,100:FF0000&text=DHANUSH&fontSize=100&fontColor=ffffff&fontAlignY=42&animation=twinkling&desc=BUILDING%20THE%20FUTURE%20ONE%20PROJECT%20AT%20A%20TIME&descSize=16&descAlignY=66"/>
 </p>
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=dhanush080607&label=PROFILE%20VISITORS&color=00D9FF&style=for-the-badge"/>
-
-</p>
-
----
-
-<!-- ========================= INTRO ================================ -->
-
-<h2 align="center">
-
-✨ WELCOME TO MY CORNER OF THE INTERNET
-
-</h2>
-
-<p align="center">
-
-I'm <strong>Dhanush</strong> — a Computer Science & Engineering student
-specialising in Data Science.
-
-<br><br>
-
-I like taking an idea that exists only in my head...
-
-<br>
-
-<strong>...and turning it into something people can actually use.</strong>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=22&duration=1800&pause=600&color=FF2B2B&center=true&vCenter=true&width=1000&lines=🏁+WELCOME+TO+THE+RACE;⚡+CODE+AT+FULL+SPEED;🌍+BUILDING+WITHOUT+BORDERS;🤖+AI+%7C+DATA+%7C+SOFTWARE;🔥+THE+JOURNEY+HAS+JUST+BEGUN"/>
 
 </p>
 
@@ -69,11 +20,43 @@ I like taking an idea that exists only in my head...
 
 <p align="center">
 
-🧠 Learn   →  
-💻 Build   →  
-🧪 Experiment   →  
-🚀 Deploy   →  
-📈 Improve
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<br>
+
+### 🏎️ `START YOUR ENGINES`
+
+<br>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</p>
+
+<br>
+
+<!-- ======================= NAVIGATION ============================ -->
+
+<p align="center">
+
+<a href="#-the-driver">
+<img src="https://img.shields.io/badge/👤%20THE%20DRIVER-111111?style=for-the-badge&labelColor=8B0000"/>
+</a>
+
+<a href="#-the-garage">
+<img src="https://img.shields.io/badge/🏎️%20THE%20GARAGE-111111?style=for-the-badge&labelColor=8B0000"/>
+</a>
+
+<a href="#-the-track">
+<img src="https://img.shields.io/badge/🏁%20THE%20TRACK-111111?style=for-the-badge&labelColor=8B0000"/>
+</a>
+
+<a href="#-the-engine">
+<img src="https://img.shields.io/badge/⚙️%20THE%20ENGINE-111111?style=for-the-badge&labelColor=8B0000"/>
+</a>
+
+<a href="#-connect">
+<img src="https://img.shields.io/badge/🌐%20CONNECT-111111?style=for-the-badge&labelColor=8B0000"/>
+</a>
 
 </p>
 
@@ -81,76 +64,57 @@ I like taking an idea that exists only in my head...
 
 ---
 
-<!-- ========================= CURRENT FOCUS ========================= -->
+# 🏁 THE DRIVER
 
-<h2 align="center">🔥 WHAT I'M FOCUSED ON</h2>
-
-<br>
-
-<table align="center">
+<table>
 <tr>
 
-<td align="center" width="25%">
+<td width="60%" valign="top">
 
-<h1>🤖</h1>
+## Hey, I'm **Dhanush** 👋
 
-<strong>ARTIFICIAL<br>INTELLIGENCE</strong>
+I'm a **Computer Science & Engineering — Data Science student** who loves turning ideas into working technology.
 
-<br><br>
+I don't want to just learn how technology works.
 
-Exploring Generative AI and building useful AI-powered applications.
+I want to **build with it**.
 
-</td>
+My current world revolves around:
 
-<td align="center" width="25%">
+🔴 Artificial Intelligence
+🔴 Data Science
+🔴 Machine Learning
+🔴 Software Development
 
-<h1>📊</h1>
+My journey is simple:
 
-<strong>DATA<br>SCIENCE</strong>
-
-<br><br>
-
-Learning how to transform raw data into insights and decisions.
-
-</td>
-
-<td align="center" width="25%">
-
-<h1>🧠</h1>
-
-<strong>MACHINE<br>LEARNING</strong>
-
-<br><br>
-
-Building models that learn from data and solve real problems.
+**LEARN → BUILD → BREAK → FIX → DEPLOY → REPEAT**
 
 </td>
 
-<td align="center" width="25%">
+<td width="40%" align="center">
 
-<h1>💻</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=18&duration=2500&pause=1000&color=FF2B2B&center=true&vCenter=true&width=400&height=150&lines=DRIVER%3A+DHANUSH;STATUS%3A+ACTIVE;MISSION%3A+BUILD;SPEED%3A+INCREASING;DESTINATION%3A+UNKNOWN"/>
 
-<strong>SOFTWARE<br>DEVELOPMENT</strong>
+<br>
 
-<br><br>
-
-Creating full applications from frontend to backend.
+<img src="https://komarev.com/ghpvc/?username=dhanush080607&label=VISITORS&color=red&style=for-the-badge"/>
 
 </td>
 
 </tr>
 </table>
 
-<br>
-
 ---
 
-<!-- ========================= FEATURED ============================== -->
-
-<h2 align="center">🚀 FEATURED PROJECT</h2>
+# 🌍 THE WORLD
 
 <p align="center">
-  <strong>One of my favourite projects so far</strong>
+
+### `I'M NOT BUILDING IN ONE DIRECTION.`
+
+### `I'M EXPLORING THE WHOLE MAP.`
+
 </p>
 
 <br>
@@ -159,61 +123,137 @@ Creating full applications from frontend to backend.
 
 <tr>
 
-<td width="55%" valign="top">
+<td align="center" width="25%">
 
-<h2>🤖 AI Resume Studio</h2>
+# 🤖
 
-<p>
+### AI
 
-An AI-powered career assistant that helps users create professional
-job application content and analyse their ATS compatibility.
+Artificial Intelligence
 
-</p>
+Generative AI
+
+AI-powered applications
+
+</td>
+
+<td align="center" width="25%">
+
+# 📊
+
+### DATA
+
+Data Science
+
+Analytics
+
+Visualisation
+
+</td>
+
+<td align="center" width="25%">
+
+# 🧠
+
+### ML
+
+Machine Learning
+
+Prediction
+
+Intelligent systems
+
+</td>
+
+<td align="center" width="25%">
+
+# 💻
+
+### CODE
+
+Web Development
+
+Backend Systems
+
+Full-Stack Applications
+
+</td>
+
+</tr>
+
+</table>
 
 <br>
 
-<h3>✨ What it can do</h3>
+<p align="center">
 
-✔️ Generate AI Resume Summaries
-
-<br>
-✔️ Create Personalised Cover Letters
-
-<br>
-✔️ Analyse ATS Compatibility
-
-<br>
-✔️ Identify Missing Skills
-
-<br>
-✔️ Provide Career Suggestions
-
-<br>
-✔️ Generate PDF Reports
+🌎 **THE GOAL**
 
 <br><br>
 
-<h3>🛠️ Built With</h3>
+Build technology that can move from
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
- 
-
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-
- 
-
-<img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white"/>
+**IDEA → CODE → PRODUCT → PEOPLE**
 
 </p>
+
+---
+
+# 🏎️ THE GARAGE
+
+<p align="center">
+
+### `WHERE IDEAS BECOME MACHINES`
+
+</p>
+
+<br>
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🔥 MACHINE 01
+
+# 🤖 AI RESUME STUDIO
+
+### `STATUS: 🟢 LIVE`
+
+A career assistant powered by AI.
+
+Built to help people move faster from **"I need a job"** to **"I'm ready to apply."**
+
+### ENGINE
+
+`Python`
+
+`Streamlit`
+
+`Gemini AI`
+
+`ReportLab`
+
+### FEATURES
+
+🔴 AI Resume Summaries
+
+🔴 Cover Letter Generation
+
+🔴 ATS Analysis
+
+🔴 Skill Gap Detection
+
+🔴 Career Insights
+
+🔴 PDF Reports
 
 <br>
 
 <a href="https://ai-resume-generator-project.streamlit.app/">
 
-🚀 <strong>TRY THE LIVE APP →</strong>
+🏁 **START ENGINE → LIVE APP**
 
 </a>
 
@@ -221,15 +261,19 @@ job application content and analyse their ATS compatibility.
 
 <a href="https://github.com/dhanush080607/AI-Resume-Generator">
 
-💻 <strong>VIEW SOURCE CODE →</strong>
+⚙️ **OPEN GARAGE → SOURCE CODE**
 
 </a>
 
 </td>
 
-<td width="45%" align="center">
+<td width="50%" align="center">
 
 <img src="https://raw.githubusercontent.com/dhanush080607/AI-Resume-Generator/main/screenshots/homepage.png" width="100%"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/LIVE-FF0000?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
 </td>
 
@@ -239,65 +283,27 @@ job application content and analyse their ATS compatibility.
 
 ---
 
-<!-- ========================= CURRENT PROJECT ======================= -->
-
-<h2 align="center">🧠 CURRENTLY BUILDING</h2>
-
-<br>
+# 🏁 THE MAIN RACE
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=160&text=INSIGHTAI&fontSize=60&fontColor=ffffff&color=0:020617,50:164e63,100:06b6d4"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&text=INSIGHTAI&fontSize=65&fontColor=ffffff&color=0:050505,50:420000,100:FF0000&animation=twinkling"/>
 
 </p>
 
 <p align="center">
 
-<strong>AI-POWERED DATA ANALYTICS PLATFORM</strong>
-
-<br><br>
-
-My biggest long-term project — bringing together <strong>Data Analytics + Visualisation + AI + Machine Learning</strong>
-into one platform.
-
-</p>
-
-<br>
-
-<p align="center">
-
-📂 Upload Dataset
-  →  
-📊 Analyse
-  →  
-📈 Visualise
-  →  
-🤖 AI Insights
-  →  
-🧠 ML Predictions
-
-</p>
-
-<br>
-
-<h3 align="center">⚙️ THE TECHNOLOGY BEHIND IT</h3>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,python,fastapi,postgresql"/>
+## `THE BIGGEST PROJECT ON THE TRACK`
 
 </p>
 
 <p align="center">
 
-<strong>React</strong>
-  •   <strong>Vite</strong>
-  •   <strong>Tailwind CSS</strong>
-  •   <strong>FastAPI</strong>
-  •   <strong>Python</strong>
-  •   <strong>Scikit-learn</strong>
-  •   <strong>Gemini AI</strong>
-  •   <strong>PostgreSQL</strong>
+InsightAI is my long-term project to build an intelligent platform where
+
+**DATA + AI + MACHINE LEARNING**
+
+come together.
 
 </p>
 
@@ -305,18 +311,34 @@ into one platform.
 
 <p align="center">
 
-🚧 <strong>THIS PROJECT IS CURRENTLY UNDER ACTIVE DEVELOPMENT</strong> 🚧
+### 🏁 THE RACE
 
 </p>
 
----
-
-<!-- ========================= PROJECTS ============================== -->
-
-<h2 align="center">🧩 PROJECT UNIVERSE</h2>
-
 <p align="center">
-  <i>A few things I've built while learning and experimenting.</i>
+
+📂 UPLOAD
+
+  →  
+
+🔍 EXPLORE
+
+  →  
+
+📊 ANALYSE
+
+  →  
+
+📈 VISUALISE
+
+  →  
+
+🤖 AI INSIGHTS
+
+  →  
+
+🧠 ML PREDICTIONS
+
 </p>
 
 <br>
@@ -325,43 +347,115 @@ into one platform.
 
 <tr>
 
-<td width="50%" valign="top">
+<td align="center">
 
-<h3>🤖 Content Creator AI Agent</h3>
+### FRONTEND
 
-AI-powered content generation and automation project.
+React
 
-<br><br>
+Vite
 
-<code>Python</code> <code>Gemini AI</code>
-
-<br><br>
-
-<a href="https://github.com/dhanush080607/Content-Creator-Ai-Agent">
-
-🔗 Explore Project
-
-</a>
+Tailwind CSS
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center">
 
-<h3>🐳 Docker Python Webpage</h3>
+### BACKEND
 
-A project exploring containerisation and deployment using Docker.
+FastAPI
 
-<br><br>
+Python
 
-<code>Python</code> <code>Docker</code>
+Pandas
 
-<br><br>
+NumPy
 
-<a href="https://github.com/dhanush080607/docker-python-webpage">
+</td>
 
-🔗 Explore Project
+<td align="center">
 
-</a>
+### INTELLIGENCE
+
+Scikit-learn
+
+Gemini AI
+
+Machine Learning
+
+</td>
+
+<td align="center">
+
+### DATA
+
+PostgreSQL
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING-FF0000?style=for-the-badge&logo=github"/>
+
+</p>
+
+<p align="center">
+
+**THE FINISH LINE IS NOT THE GOAL.**
+
+<br>
+
+**BECOMING BETTER IS.**
+
+</p>
+
+---
+
+# 🏁 THE TRACK
+
+<p align="center">
+
+### `EVERY PROJECT IS ANOTHER LAP.`
+
+</p>
+
+<br>
+
+<table align="center">
+
+<tr>
+
+<td width="50%">
+
+## 🥇 LAP 01
+
+### Content Creator AI Agent
+
+AI-powered content generation and automation.
+
+`Python` `Gemini AI`
+
+🏁 <a href="https://github.com/dhanush080607/Content-Creator-Ai-Agent">VIEW PROJECT</a>
+
+</td>
+
+<td width="50%">
+
+## 🥈 LAP 02
+
+### Docker Python Webpage
+
+Exploring containerisation and deployment.
+
+`Python` `Docker`
+
+🏁 <a href="https://github.com/dhanush080607/docker-python-webpage">VIEW PROJECT</a>
 
 </td>
 
@@ -369,43 +463,31 @@ A project exploring containerisation and deployment using Docker.
 
 <tr>
 
-<td width="50%" valign="top">
+<td>
 
-<h3>🌡️ Temperature Converter</h3>
+## 🥉 LAP 03
 
-A simple Python utility created while strengthening programming fundamentals.
+### Temperature Converter
 
-<br><br>
+A simple Python utility project.
 
-<code>Python</code>
+`Python`
 
-<br><br>
-
-<a href="https://github.com/dhanush080607/Temperature-Converter-Project">
-
-🔗 Explore Project
-
-</a>
+🏁 <a href="https://github.com/dhanush080607/Temperature-Converter-Project">VIEW PROJECT</a>
 
 </td>
 
-<td width="50%" valign="top">
+<td>
 
-<h3>🌐 Personal Portfolio</h3>
+## 🚀 LAP 04
 
-A personal website showcasing my development journey.
+### Personal Portfolio
 
-<br><br>
+My personal web development project.
 
-<code>HTML</code> <code>CSS</code>
+`HTML` `CSS`
 
-<br><br>
-
-<a href="https://dhanush-portfolio1-two.vercel.app/">
-
-🚀 Visit Live Website
-
-</a>
+🏁 <a href="https://dhanush-portfolio1-two.vercel.app/">VISIT WEBSITE</a>
 
 </td>
 
@@ -415,9 +497,13 @@ A personal website showcasing my development journey.
 
 ---
 
-<!-- ========================= TECH STACK ============================ -->
+# ⚙️ THE ENGINE
 
-<h2 align="center">⚡ MY TECH STACK</h2>
+<p align="center">
+
+### `POWERING THE BUILD`
+
+</p>
 
 <br>
 
@@ -435,15 +521,21 @@ A personal website showcasing my development journey.
 
 <td align="center">
 
-🐍
+🔥
 
 <br>
 
-<strong>PROGRAMMING</strong>
+<strong>LANGUAGES</strong>
 
 <br><br>
 
-Python · C · Java · JavaScript
+Python
+
+C
+
+Java
+
+JavaScript
 
 </td>
 
@@ -453,25 +545,37 @@ Python · C · Java · JavaScript
 
 <br>
 
-<strong>DEVELOPMENT</strong>
+<strong>WEB</strong>
 
 <br><br>
 
-HTML · CSS · React · Node.js
+HTML
+
+CSS
+
+React
+
+Node.js
 
 </td>
 
 <td align="center">
 
-🤖
+🧠
 
 <br>
 
-<strong>AI & DATA</strong>
+<strong>AI / DATA</strong>
 
 <br><br>
 
-Pandas · NumPy · Scikit-learn · Gemini AI
+Pandas
+
+NumPy
+
+Scikit-learn
+
+Gemini AI
 
 </td>
 
@@ -481,11 +585,17 @@ Pandas · NumPy · Scikit-learn · Gemini AI
 
 <br>
 
-<strong>TOOLS</strong>
+<strong>INFRA</strong>
 
 <br><br>
 
-Git · GitHub · Docker · VS Code
+Git
+
+Docker
+
+Linux
+
+PostgreSQL
 
 </td>
 
@@ -495,20 +605,11 @@ Git · GitHub · Docker · VS Code
 
 ---
 
-<!-- ========================= LEARNING ============================== -->
-
-<h2 align="center">🌱 CURRENTLY LEARNING</h2>
-
-<br>
+# 🔧 PIT STOP
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Generative%20AI-00D9FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Science-F59E0B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FastAPI-22C55E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DevOps-111827?style=for-the-badge"/>
+### `CURRENTLY UPGRADING`
 
 </p>
 
@@ -516,55 +617,19 @@ Git · GitHub · Docker · VS Code
 
 <p align="center">
 
-<strong>My goal isn't to learn every technology.</strong>
+🔴 Generative AI
 
-<br>
+🔴 Machine Learning
 
-<strong>My goal is to learn enough to build something meaningful.</strong>
+🔴 Data Science
 
-</p>
+🔴 FastAPI
 
----
+🔴 Docker
 
-<!-- ========================= JOURNEY =============================== -->
+🔴 DevOps
 
-<h2 align="center">🛣️ MY JOURNEY SO FAR</h2>
-
-<br>
-
-<p align="center">
-
-🌐 Web Development
-
-<br>
-↓
-<br>
-
-🐍 Python & Programming
-
-<br>
-↓
-<br>
-
-📊 Data Science
-
-<br>
-↓
-<br>
-
-🧠 Machine Learning
-
-<br>
-↓
-<br>
-
-🤖 Generative AI
-
-<br>
-↓
-<br>
-
-🚀 Building AI-Powered Products
+🔴 Cloud Deployment
 
 </p>
 
@@ -572,58 +637,109 @@ Git · GitHub · Docker · VS Code
 
 <p align="center">
 
-<strong>And I'm just getting started.</strong>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&duration=2200&pause=700&color=FF2B2B&center=true&vCenter=true&width=800&lines=UPGRADE+IN+PROGRESS...;NEW+SKILLS+LOADING...;NEXT+PROJECT+LOADING...;NEVER+STOP+BUILDING."/>
 
 </p>
 
 ---
 
-<!-- ========================= STATS ================================ -->
-
-<h2 align="center">📊 GITHUB ACTIVITY</h2>
+# 🌍 THE GLOBAL MAP
 
 <p align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhanush080607&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+### `THE INTERNET HAS NO BORDERS.`
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhanush080607&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=dhanush080607&theme=tokyonight&hide_border=true"/>
+### `NEITHER DOES CODE.`
 
 </p>
-
----
-
-<!-- ========================= PHILOSOPHY ============================ -->
-
-<h2 align="center">💡 MY MINDSET</h2>
 
 <br>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Don't+just+watch+tutorials.;Build+something.;Don't+just+write+code.;Solve+problems.;Don't+just+start+projects.;Finish+them.;Keep+learning.+Keep+building.+Keep+going." />
+🌎   **BUILD LOCALLY**
+
+    →    
+
+☁️   **DEPLOY GLOBALLY**
+
+    →    
+
+🚀   **REACH EVERYWHERE**
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🌎%20INDIA-ORIGIN-FF0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/☁️%20CLOUD-DESTINATION-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀%20OPEN%20SOURCE-ALWAYS-FF0000?style=for-the-badge"/>
+
+</p>
+
+<br>
+
+<p align="center">
+
+I believe technology becomes meaningful when
+
+<strong>ideas can travel beyond borders.</strong>
 
 </p>
 
 ---
 
-<!-- ========================= CONNECT ============================== -->
-
-<h2 align="center">🌐 LET'S CONNECT</h2>
+# 📊 THE TELEMETRY
 
 <p align="center">
 
-Whether it's AI, Data Science, Machine Learning, Development,
-or just building something interesting...
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhanush080607&show_icons=true&theme=dark&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=050505"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhanush080607&layout=compact&theme=dark&hide_border=true&title_color=FF0000&text_color=FFFFFF&bg_color=050505"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=dhanush080607&theme=dark&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=FF0000"/>
+
+</p>
+
+---
+
+# 🏆 THE MINDSET
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=25&duration=3000&pause=900&color=FF0000&center=true&vCenter=true&width=900&lines=NO+SHORTCUTS.;NO+FINISH+LINE.;JUST+BUILDING.;JUST+LEARNING.;JUST+MOVING+FORWARD."/>
+
+</p>
 
 <br>
 
-<strong>I'm always open to connecting.</strong>
+<p align="center">
+
+### 🏎️ SPEED IS NOT EVERYTHING.
+
+### 🧠 DIRECTION MATTERS.
+
+### 🔥 CONSISTENCY WINS THE RACE.
+
+</p>
+
+---
+
+# 🌐 CONNECT
+
+<p align="center">
+
+### `THE NEXT PROJECT COULD BE OURS.`
 
 </p>
 
@@ -632,37 +748,49 @@ or just building something interesting...
 <p align="center">
 
 <a href="https://github.com/dhanush080607">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/💻%20GITHUB-000000?style=for-the-badge&logo=github"/>
+
 </a>
 
 <a href="https://www.linkedin.com/in/h-dhanush-189565327">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+
+<img src="https://img.shields.io/badge/🤝%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin"/>
+
 </a>
 
 <a href="mailto:h.dhanush2007@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+
+<img src="https://img.shields.io/badge/📧%20EMAIL-8B0000?style=for-the-badge&logo=gmail"/>
+
 </a>
 
 </p>
 
 <br>
 
-<!-- ========================= FINAL ================================= -->
+---
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile+👋;See+you+in+the+next+project+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=22&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=900&lines=🏁+THANKS+FOR+VISITING;🚀+THE+RACE+CONTINUES;🔥+SEE+YOU+AT+THE+NEXT+LAP"/>
 
 </p>
 
 <p align="center">
 
-<strong>BUILD • LEARN • CREATE • REPEAT</strong>
+<strong>BUILD • LEARN • DEPLOY • REPEAT</strong>
 
 </p>
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0c4a6e,100:00D9FF&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:FF0000,40:8B0000,70:420000,100:050505&section=footer"/>
+
+</p>
+
+<p align="center">
+
+<sub>© 2026 Dhanush · Built at full speed 🏎️</sub>
 
 </p>
