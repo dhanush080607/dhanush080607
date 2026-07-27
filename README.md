@@ -42,6 +42,10 @@
 <img src="https://img.shields.io/badge/👤%20THE%20DRIVER-111111?style=for-the-badge&labelColor=8B0000"/>
 </a>
 
+<a href="#-the-world">
+<img src="https://img.shields.io/badge/🌍%20THE%20WORLD-111111?style=for-the-badge&labelColor=8B0000"/>
+</a>
+
 <a href="#-the-garage">
 <img src="https://img.shields.io/badge/🏎️%20THE%20GARAGE-111111?style=for-the-badge&labelColor=8B0000"/>
 </a>
@@ -52,6 +56,10 @@
 
 <a href="#-the-engine">
 <img src="https://img.shields.io/badge/⚙️%20THE%20ENGINE-111111?style=for-the-badge&labelColor=8B0000"/>
+</a>
+
+<a href="#-the-telemetry">
+<img src="https://img.shields.io/badge/📊%20THE%20TELEMETRY-111111?style=for-the-badge&labelColor=8B0000"/>
 </a>
 
 <a href="#-connect">
@@ -695,19 +703,63 @@ I believe technology becomes meaningful when
 
 <p align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhanush080607&show_icons=true&theme=dark&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=050505"/>
+### `LIVE DATA FROM THE DRIVER'S GARAGE`
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dhanush080607&show_icons=true&theme=dark&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=050505" alt="Dhanush's GitHub Stats"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhanush080607&layout=compact&theme=dark&hide_border=true&title_color=FF0000&text_color=FFFFFF&bg_color=050505"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush080607&layout=compact&theme=dark&hide_border=true&title_color=FF0000&text_color=FFFFFF&bg_color=050505" alt="Dhanush's Top Languages"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=dhanush080607&theme=dark&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=FF0000"/>
+<img src="https://streak-stats.demolab.com?user=dhanush080607&theme=dark&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Dhanush's GitHub Streak"/>
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanush080607&bg_color=050505&color=FFFFFF&line=FF0000&point=FF0000&area=true&hide_border=true" alt="Dhanush's GitHub Activity Graph"/>
+
+</p>
+
+<br>
+
+<p align="center">
+
+🏎️ **COMMITS**
+
+  •  
+
+🔥 **STREAK**
+
+  •  
+
+💻 **LANGUAGES**
+
+  •  
+
+📈 **ACTIVITY**
+
+</p>
+
+<p align="center">
+
+### `THE NUMBERS TELL THE STORY.`
+
+### `THE CODE WRITES IT.`
 
 </p>
 
