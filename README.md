@@ -433,17 +433,31 @@ I believe technology becomes meaningful when<br>
 
 <br>
 
+<!-- GitHub Activity Graph -->
 <p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=dhanush080607&bg_color=050505&color=FF0000&line=8B0000&point=FFFFFF&area_color=420000&title_color=FF0000&hide_border=true&area=true" 
+    alt="GitHub Contribution Graph" 
+    width="100%"
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <!-- General Stats (Rank Hidden) -->
   <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=dhanush080607&show_icons=true&theme=dark&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=050505"
+    src="https://github-readme-stats-fast.vercel.app/api?username=dhanush080607&show_icons=true&theme=dark&hide_border=true&hide_rank=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=050505"
     alt="Dhanush GitHub Stats"
   />
   <br><br>
+  <!-- Top Languages -->
   <img
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dhanush080607&layout=compact&theme=dark&hide_border=true&title_color=FF0000&text_color=FFFFFF&bg_color=050505"
     alt="Dhanush Top Languages"
   />
   <br><br>
+  <!-- Streak Stats -->
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=dhanush080607&theme=dark&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&background=050505"
     alt="Dhanush GitHub Streak"
