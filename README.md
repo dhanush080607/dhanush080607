@@ -433,112 +433,213 @@ I believe technology becomes meaningful when<br>
 
 <br>
 
-<!-- Custom Animated A+ Rank Banner -->
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/DRIVER%20RANK-A%2B-FF0000?style=for-the-badge&logo=github&logoColor=white&labelColor=050505"
-    alt="A+ Rank Badge"
-  />
-</p>
-
-<br>
-
-<!-- Animated GitHub Activity Line Graph -->
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=dhanush080607&bg_color=050505&color=FF0000&line=8B0000&point=FFFFFF&area_color=420000&title_color=FF0000&hide_border=true&area=true" 
-    alt="GitHub Contribution Graph" 
-    width="100%"
-  />
-</p>
-
-<br>
+<!-- =================== DEVELOPER PERFORMANCE ==================== -->
 
 <p align="center">
-  <!-- General Stats -->
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=dhanush080607&show_icons=true&theme=dark&hide_border=true&hide_rank=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=050505"
-    alt="Dhanush GitHub Stats"
-  />
-  <br><br>
-  <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dhanush080607&layout=compact&theme=dark&hide_border=true&title_color=FF0000&text_color=FFFFFF&bg_color=050505"
-    alt="Dhanush Top Languages"
-  />
-  <br><br>
-  <!-- Streak Stats -->
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=dhanush080607&theme=dark&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&background=050505"
-    alt="Dhanush GitHub Streak"
-  />
-</p>
 
-<br>
-
-<p align="center">
-🏎️ <strong>COMMITS</strong> &nbsp; • &nbsp; 🔥 <strong>STREAK</strong> &nbsp; • &nbsp; 💻 <strong>LANGUAGES</strong> &nbsp; • &nbsp; 📈 <strong>ACTIVITY</strong>
-</p>
-
-<p align="center">
-  <code>THE NUMBERS TELL THE STORY.</code><br>
-  <code>THE CODE WRITES IT.</code>
-</p>
-
----
-
-# 🏆 THE MINDSET
-
-<p align="center">
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=25&duration=3000&pause=900&color=FF0000&center=true&vCenter=true&width=900&lines=NO+SHORTCUTS.;NO+FINISH+LINE.;JUST+BUILDING.;JUST+LEARNING.;JUST+MOVING+FORWARD."
-  alt="Mindset"
+  src="https://img.shields.io/badge/🏆%20DEVELOPER%20RANK-A%2B-FF0000?style=for-the-badge&labelColor=050505"
+  alt="Developer Rank A+"
 />
-</p>
 
-<br>
-
-<p align="center">
-🏎️ <strong>SPEED IS NOT EVERYTHING.</strong><br>
-🧠 <strong>DIRECTION MATTERS.</strong><br>
-🔥 <strong>CONSISTENCY WINS THE RACE.</strong>
-</p>
-
----
-
-# 🌐 CONNECT
-
-<p align="center">
-  <code>THE NEXT PROJECT COULD BE OURS.</code>
-</p>
-
-<br>
-
-<p align="center">
-<a href="https://github.com/dhanush080607">
-  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/h-dhanush-189565327">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:h.dhanush2007@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-8B0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-</p>
-
-<br>
-
----
-
-<p align="center">
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=22&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=900&lines=THANKS+FOR+VISITING;THE+RACE+CONTINUES;SEE+YOU+AT+THE+NEXT+LAP"
-  alt="Thanks for Visiting"
+  src="https://img.shields.io/badge/🔥%20CONTRIBUTION-ELITE-FF0000?style=for-the-badge&labelColor=050505"
+  alt="Contribution Elite"
 />
+
+<img
+  src="https://img.shields.io/badge/⚡%20BUILD%20MODE-ACTIVE-FF0000?style=for-the-badge&labelColor=050505"
+  alt="Build Mode Active"
+/>
+
 </p>
 
+<br>
+
+<table align="center" width="100%">
+
+<tr>
+
+<td align="center" width="25%">
+
+<h2>🏆</h2>
+
+<strong>DEVELOPER RANK</strong>
+
+<br><br>
+
+<code>A+</code>
+
+<br><br>
+
+Building. Learning. Improving.
+
+</td>
+
+<td align="center" width="25%">
+
+<h2>🤖</h2>
+
+<strong>AI BUILDS</strong>
+
+<br><br>
+
+<code>ACTIVE</code>
+
+<br><br>
+
+AI • GenAI • ML
+
+</td>
+
+<td align="center" width="25%">
+
+<h2>📊</h2>
+
+<strong>DATA MODE</strong>
+
+<br><br>
+
+<code>ACTIVE</code>
+
+<br><br>
+
+Data Science • Analytics
+
+</td>
+
+<td align="center" width="25%">
+
+<h2>🚀</h2>
+
+<strong>MISSION</strong>
+
+<br><br>
+
+<code>BUILD</code>
+
+<br><br>
+
+Idea → Product
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<!-- =================== STATUS ANIMATION ========================= -->
+
 <p align="center">
-<strong>BUILD • LEARN • DEPLOY • REPEAT</strong>
+
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=22&duration=2500&pause=700&color=FF0000&center=true&vCenter=true&width=700&lines=🏆+DEVELOPER+RANK%3A+A%2B;🔥+CONTRIBUTION%3A+ELITE;⚡+BUILD+MODE%3A+ACTIVE;🤖+AI+SYSTEMS%3A+LOADING;🚀+NEXT+PROJECT%3A+INCOMING"
+  alt="Developer Performance Status"
+/>
+
+</p>
+
+<br>
+
+<!-- ================= GITHUB ACTIVITY GRAPH ====================== -->
+
+<p align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=dhanush080607&bg_color=050505&color=FF0000&line=8B0000&point=FFFFFF&area_color=420000&title_color=FF0000&hide_border=true&area=true"
+  alt="GitHub Contribution Graph"
+  width="100%"
+/>
+
+</p>
+
+<br>
+
+<!-- ===================== GITHUB STATS ============================ -->
+
+<p align="center">
+
+<img
+  src="https://github-readme-stats-fast.vercel.app/api?username=dhanush080607&show_icons=true&theme=dark&hide_border=true&hide_rank=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=050505"
+  alt="Dhanush GitHub Stats"
+/>
+
+</p>
+
+<br>
+
+<!-- ==================== TOP LANGUAGES ============================ -->
+
+<p align="center">
+
+<img
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dhanush080607&layout=compact&theme=dark&hide_border=true&title_color=FF0000&text_color=FFFFFF&bg_color=050505"
+  alt="Dhanush Top Languages"
+/>
+
+</p>
+
+<br>
+
+<!-- ===================== STREAK STATS ============================ -->
+
+<p align="center">
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=dhanush080607&theme=dark&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&background=050505"
+  alt="Dhanush GitHub Streak"
+/>
+
+</p>
+
+<br>
+
+<!-- ===================== TELEMETRY LABELS ======================= -->
+
+<p align="center">
+
+🏎️ <strong>COMMITS</strong>
+&nbsp; • &nbsp;
+🔥 <strong>STREAK</strong>
+&nbsp; • &nbsp;
+💻 <strong>LANGUAGES</strong>
+&nbsp; • &nbsp;
+📈 <strong>ACTIVITY</strong>
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img
+  src="https://img.shields.io/badge/STATUS-ALWAYS%20BUILDING-FF0000?style=for-the-badge&labelColor=050505"
+  alt="Always Building"
+/>
+
+<img
+  src="https://img.shields.io/badge/NEXT%20LAP-LOADING-FF0000?style=for-the-badge&labelColor=050505"
+  alt="Next Lap Loading"
+/>
+
+</p>
+
+<br>
+
+<p align="center">
+
+<code>THE NUMBERS TELL THE STORY.</code>
+
+<br>
+
+<code>THE CODE WRITES IT.</code>
+
+<br><br>
+
+<strong>🏁 BUILD • LEARN • DEPLOY • REPEAT 🏁</strong>
+
 </p>
 
 <br>
