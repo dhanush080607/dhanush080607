@@ -7,7 +7,7 @@
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=380&color=0:050505,25:160000,50:420000,75:8B0000,100:FF0000&text=DHANUSH&fontSize=100&fontColor=ffffff&fontAlignY=42&animation=twinkling&desc=BUILDING%20THE%20FUTURE%20ONE%20PROJECT%20AT%20A%20TIME&descSize=16&descAlignY=66"
-    alt="Dhanush"
+    alt="Dhanush Header"
     width="100%"
   />
 </p>
@@ -433,7 +433,17 @@ I believe technology becomes meaningful when<br>
 
 <br>
 
-<!-- GitHub Activity Graph -->
+<!-- Custom Animated A+ Rank Banner -->
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/DRIVER%20RANK-A%2B-FF0000?style=for-the-badge&logo=github&logoColor=white&labelColor=050505"
+    alt="A+ Rank Badge"
+  />
+</p>
+
+<br>
+
+<!-- Animated GitHub Activity Line Graph -->
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=dhanush080607&bg_color=050505&color=FF0000&line=8B0000&point=FFFFFF&area_color=420000&title_color=FF0000&hide_border=true&area=true" 
@@ -445,7 +455,7 @@ I believe technology becomes meaningful when<br>
 <br>
 
 <p align="center">
-  <!-- General Stats (Rank Hidden) -->
+  <!-- General Stats -->
   <img
     src="https://github-readme-stats-fast.vercel.app/api?username=dhanush080607&show_icons=true&theme=dark&hide_border=true&hide_rank=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=050505"
     alt="Dhanush GitHub Stats"
