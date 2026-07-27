@@ -418,7 +418,7 @@ Git | Docker | Linux | PostgreSQL
 
 <br />
 
-<!-- Animated Activity Graph -->
+<!-- Animated Contribution Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanush080607&bg_color=050505&color=FF0000&line=8B0000&point=FFFFFF&area_color=420000&title_color=FF0000&hide_border=true&area=true" width="100%" alt="H Dhanush's Contribution Graph" />
 </div>
