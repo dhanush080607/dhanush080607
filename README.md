@@ -1,19 +1,22 @@
 <!-- =============================================================== -->
-
 <!--                    DHANUSH // WORLD IN MOTION                   -->
-
 <!-- =============================================================== -->
 
 <!-- ========================== HERO =============================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=380&color=0:050505,25:160000,50:420000,75:8B0000,100:FF0000&text=DHANUSH&fontSize=100&fontColor=ffffff&fontAlignY=42&animation=twinkling&desc=BUILDING%20THE%20FUTURE%20ONE%20PROJECT%20AT%20A%20TIME&descSize=16&descAlignY=66"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=380&color=0:050505,25:160000,50:420000,75:8B0000,100:FF0000&text=DHANUSH&fontSize=100&fontColor=ffffff&fontAlignY=42&animation=twinkling&desc=BUILDING%20THE%20FUTURE%20ONE%20PROJECT%20AT%20A%20TIME&descSize=16&descAlignY=66"
+    alt="Dhanush"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=22&duration=1800&pause=600&color=FF2B2B&center=true&vCenter=true&width=1000&lines=🏁+WELCOME+TO+THE+RACE;⚡+CODE+AT+FULL+SPEED;🌍+BUILDING+WITHOUT+BORDERS;🤖+AI+%7C+DATA+%7C+SOFTWARE;🔥+THE+JOURNEY+HAS+JUST+BEGUN"/>
-
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=22&duration=1800&pause=600&color=FF2B2B&center=true&vCenter=true&width=1000&lines=WELCOME+TO+THE+RACE;CODE+AT+FULL+SPEED;BUILDING+WITHOUT+BORDERS;AI+%7C+DATA+%7C+SOFTWARE;THE+JOURNEY+HAS+JUST+BEGUN"
+    alt="Typing Animation"
+  />
 </p>
 
 <br>
@@ -39,31 +42,31 @@
 <p align="center">
 
 <a href="#-the-driver">
-<img src="https://img.shields.io/badge/👤%20THE%20DRIVER-111111?style=for-the-badge&labelColor=8B0000"/>
+<img src="https://img.shields.io/badge/THE%20DRIVER-111111?style=for-the-badge&labelColor=8B0000" alt="The Driver"/>
 </a>
 
 <a href="#-the-world">
-<img src="https://img.shields.io/badge/🌍%20THE%20WORLD-111111?style=for-the-badge&labelColor=8B0000"/>
+<img src="https://img.shields.io/badge/THE%20WORLD-111111?style=for-the-badge&labelColor=8B0000" alt="The World"/>
 </a>
 
 <a href="#-the-garage">
-<img src="https://img.shields.io/badge/🏎️%20THE%20GARAGE-111111?style=for-the-badge&labelColor=8B0000"/>
+<img src="https://img.shields.io/badge/THE%20GARAGE-111111?style=for-the-badge&labelColor=8B0000" alt="The Garage"/>
 </a>
 
 <a href="#-the-track">
-<img src="https://img.shields.io/badge/🏁%20THE%20TRACK-111111?style=for-the-badge&labelColor=8B0000"/>
+<img src="https://img.shields.io/badge/THE%20TRACK-111111?style=for-the-badge&labelColor=8B0000" alt="The Track"/>
 </a>
 
 <a href="#-the-engine">
-<img src="https://img.shields.io/badge/⚙️%20THE%20ENGINE-111111?style=for-the-badge&labelColor=8B0000"/>
+<img src="https://img.shields.io/badge/THE%20ENGINE-111111?style=for-the-badge&labelColor=8B0000" alt="The Engine"/>
 </a>
 
 <a href="#-the-telemetry">
-<img src="https://img.shields.io/badge/📊%20THE%20TELEMETRY-111111?style=for-the-badge&labelColor=8B0000"/>
+<img src="https://img.shields.io/badge/TELEMETRY-111111?style=for-the-badge&labelColor=8B0000" alt="Telemetry"/>
 </a>
 
 <a href="#-connect">
-<img src="https://img.shields.io/badge/🌐%20CONNECT-111111?style=for-the-badge&labelColor=8B0000"/>
+<img src="https://img.shields.io/badge/CONNECT-111111?style=for-the-badge&labelColor=8B0000" alt="Connect"/>
 </a>
 
 </p>
@@ -89,10 +92,10 @@ I want to **build with it**.
 
 My current world revolves around:
 
-🔴 Artificial Intelligence
-🔴 Data Science
-🔴 Machine Learning
-🔴 Software Development
+🔴 Artificial Intelligence  
+🔴 Data Science  
+🔴 Machine Learning  
+🔴 Software Development  
 
 My journey is simple:
 
@@ -102,11 +105,17 @@ My journey is simple:
 
 <td width="40%" align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=18&duration=2500&pause=1000&color=FF2B2B&center=true&vCenter=true&width=400&height=150&lines=DRIVER%3A+DHANUSH;STATUS%3A+ACTIVE;MISSION%3A+BUILD;SPEED%3A+INCREASING;DESTINATION%3A+UNKNOWN"/>
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=18&duration=2500&pause=1000&color=FF2B2B&center=true&vCenter=true&width=400&height=150&lines=DRIVER%3A+DHANUSH;STATUS%3A+ACTIVE;MISSION%3A+BUILD;SPEED%3A+INCREASING;DESTINATION%3A+UNKNOWN"
+alt="Driver Status"
+/>
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=dhanush080607&label=VISITORS&color=red&style=for-the-badge"/>
+<img
+src="https://komarev.com/ghpvc/?username=dhanush080607&label=VISITORS&color=red&style=for-the-badge"
+alt="Profile Visitors"
+/>
 
 </td>
 
@@ -235,12 +244,9 @@ Built to help people move faster from **"I need a job"** to **"I'm ready to appl
 
 ### ENGINE
 
-`Python`
-
-`Streamlit`
-
-`Gemini AI`
-
+`Python`  
+`Streamlit`  
+`Gemini AI`  
 `ReportLab`
 
 ### FEATURES
@@ -277,11 +283,18 @@ Built to help people move faster from **"I need a job"** to **"I'm ready to appl
 
 <td width="50%" align="center">
 
-<img src="https://raw.githubusercontent.com/dhanush080607/AI-Resume-Generator/main/screenshots/homepage.png" width="100%"/>
+<img
+src="https://raw.githubusercontent.com/dhanush080607/AI-Resume-Generator/main/screenshots/homepage.png"
+width="100%"
+alt="AI Resume Generator"
+/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/LIVE-FF0000?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img
+src="https://img.shields.io/badge/LIVE-FF0000?style=for-the-badge&logo=streamlit&logoColor=white"
+alt="Live App"
+/>
 
 </td>
 
@@ -295,7 +308,11 @@ Built to help people move faster from **"I need a job"** to **"I'm ready to appl
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&text=INSIGHTAI&fontSize=65&fontColor=ffffff&color=0:050505,50:420000,100:FF0000&animation=twinkling"/>
+<img
+src="https://capsule-render.vercel.app/api?type=rect&height=180&text=INSIGHTAI&fontSize=65&fontColor=ffffff&color=0:050505,50:420000,100:FF0000&animation=twinkling"
+width="100%"
+alt="InsightAI"
+/>
 
 </p>
 
@@ -327,23 +344,23 @@ come together.
 
 📂 UPLOAD
 
-  →  
+&nbsp; → &nbsp;
 
 🔍 EXPLORE
 
-  →  
+&nbsp; → &nbsp;
 
 📊 ANALYSE
 
-  →  
+&nbsp; → &nbsp;
 
 📈 VISUALISE
 
-  →  
+&nbsp; → &nbsp;
 
 🤖 AI INSIGHTS
 
-  →  
+&nbsp; → &nbsp;
 
 🧠 ML PREDICTIONS
 
@@ -409,7 +426,10 @@ PostgreSQL
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/STATUS-BUILDING-FF0000?style=for-the-badge&logo=github"/>
+<img
+src="https://img.shields.io/badge/STATUS-BUILDING-FF0000?style=for-the-badge&logo=github&logoColor=white"
+alt="InsightAI Status"
+/>
 
 </p>
 
@@ -517,7 +537,10 @@ My personal web development project.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,java,javascript,html,css,react,vite,tailwind,nodejs,fastapi,postgresql,git,github,docker,linux,vscode,figma"/>
+<img
+src="https://skillicons.dev/icons?i=python,c,java,javascript,html,css,react,vite,tailwind,nodejs,fastapi,postgresql,git,github,docker,linux,vscode,figma"
+alt="Technology Stack"
+/>
 
 </p>
 
@@ -645,7 +668,10 @@ PostgreSQL
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&duration=2200&pause=700&color=FF2B2B&center=true&vCenter=true&width=800&lines=UPGRADE+IN+PROGRESS...;NEW+SKILLS+LOADING...;NEXT+PROJECT+LOADING...;NEVER+STOP+BUILDING."/>
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&duration=2200&pause=700&color=FF2B2B&center=true&vCenter=true&width=800&lines=UPGRADE+IN+PROGRESS...;NEW+SKILLS+LOADING...;NEXT+PROJECT+LOADING...;NEVER+STOP+BUILDING."
+alt="Currently Learning"
+/>
 
 </p>
 
@@ -665,15 +691,15 @@ PostgreSQL
 
 <p align="center">
 
-🌎   **BUILD LOCALLY**
+🌎 **BUILD LOCALLY**
 
-    →    
+&nbsp;&nbsp; → &nbsp;&nbsp;
 
-☁️   **DEPLOY GLOBALLY**
+☁️ **DEPLOY GLOBALLY**
 
-    →    
+&nbsp;&nbsp; → &nbsp;&nbsp;
 
-🚀   **REACH EVERYWHERE**
+🚀 **REACH EVERYWHERE**
 
 </p>
 
@@ -681,9 +707,20 @@ PostgreSQL
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/🌎%20INDIA-ORIGIN-FF0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/☁️%20CLOUD-DESTINATION-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🚀%20OPEN%20SOURCE-ALWAYS-FF0000?style=for-the-badge"/>
+<img
+src="https://img.shields.io/badge/INDIA-ORIGIN-FF0000?style=for-the-badge"
+alt="India Origin"
+/>
+
+<img
+src="https://img.shields.io/badge/CLOUD-DESTINATION-111111?style=for-the-badge"
+alt="Cloud Destination"
+/>
+
+<img
+src="https://img.shields.io/badge/OPEN_SOURCE-ALWAYS-FF0000?style=for-the-badge"
+alt="Open Source"
+/>
 
 </p>
 
@@ -711,27 +748,28 @@ I believe technology becomes meaningful when
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dhanush080607&show_icons=true&theme=dark&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=050505" alt="Dhanush's GitHub Stats"/>
+<img
+src="https://github-readme-stats.vercel.app/api?username=dhanush080607&show_icons=true&theme=dark&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=050505"
+alt="Dhanush GitHub Stats"
+/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush080607&layout=compact&theme=dark&hide_border=true&title_color=FF0000&text_color=FFFFFF&bg_color=050505" alt="Dhanush's Top Languages"/>
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush080607&layout=compact&theme=dark&hide_border=true&title_color=FF0000&text_color=FFFFFF&bg_color=050505"
+alt="Dhanush Top Languages"
+/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=dhanush080607&theme=dark&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Dhanush's GitHub Streak"/>
-
-</p>
-
-<br>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanush080607&bg_color=050505&color=FFFFFF&line=FF0000&point=FF0000&area=true&hide_border=true" alt="Dhanush's GitHub Activity Graph"/>
+<img
+src="https://streak-stats.demolab.com/?user=dhanush080607&theme=dark&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=FF0000"
+alt="Dhanush GitHub Streak"
+/>
 
 </p>
 
@@ -741,15 +779,15 @@ I believe technology becomes meaningful when
 
 🏎️ **COMMITS**
 
-  •  
+&nbsp; • &nbsp;
 
 🔥 **STREAK**
 
-  •  
+&nbsp; • &nbsp;
 
 💻 **LANGUAGES**
 
-  •  
+&nbsp; • &nbsp;
 
 📈 **ACTIVITY**
 
@@ -769,7 +807,10 @@ I believe technology becomes meaningful when
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=25&duration=3000&pause=900&color=FF0000&center=true&vCenter=true&width=900&lines=NO+SHORTCUTS.;NO+FINISH+LINE.;JUST+BUILDING.;JUST+LEARNING.;JUST+MOVING+FORWARD."/>
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=25&duration=3000&pause=900&color=FF0000&center=true&vCenter=true&width=900&lines=NO+SHORTCUTS.;NO+FINISH+LINE.;JUST+BUILDING.;JUST+LEARNING.;JUST+MOVING+FORWARD."
+alt="Mindset"
+/>
 
 </p>
 
@@ -801,19 +842,28 @@ I believe technology becomes meaningful when
 
 <a href="https://github.com/dhanush080607">
 
-<img src="https://img.shields.io/badge/💻%20GITHUB-000000?style=for-the-badge&logo=github"/>
+<img
+src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"
+alt="GitHub"
+/>
 
 </a>
 
 <a href="https://www.linkedin.com/in/h-dhanush-189565327">
 
-<img src="https://img.shields.io/badge/🤝%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img
+src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+alt="LinkedIn"
+/>
 
 </a>
 
 <a href="mailto:h.dhanush2007@gmail.com">
 
-<img src="https://img.shields.io/badge/📧%20EMAIL-8B0000?style=for-the-badge&logo=gmail"/>
+<img
+src="https://img.shields.io/badge/EMAIL-8B0000?style=for-the-badge&logo=gmail&logoColor=white"
+alt="Email"
+/>
 
 </a>
 
@@ -825,7 +875,10 @@ I believe technology becomes meaningful when
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=22&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=900&lines=🏁+THANKS+FOR+VISITING;🚀+THE+RACE+CONTINUES;🔥+SEE+YOU+AT+THE+NEXT+LAP"/>
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=22&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=900&lines=THANKS+FOR+VISITING;THE+RACE+CONTINUES;SEE+YOU+AT+THE+NEXT+LAP"
+alt="Thanks for Visiting"
+/>
 
 </p>
 
@@ -835,9 +888,14 @@ I believe technology becomes meaningful when
 
 </p>
 
+<br>
+
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:FF0000,40:8B0000,70:420000,100:050505&section=footer"/>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:FF0000,40:8B0000,70:420000,100:050505&section=footer"
+alt="Footer"
+/>
 
 </p>
 
