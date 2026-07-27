@@ -434,18 +434,20 @@ I believe technology becomes meaningful when<br>
 <br>
 
 <p align="center">
-<img
-  src="https://github-readme-stats.vercel.app/api?username=dhanush080607&show_icons=true&theme=dark&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=050505"
-  alt="Dhanush GitHub Stats"
-/><br><br>
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush080607&layout=compact&theme=dark&hide_border=true&title_color=FF0000&text_color=FFFFFF&bg_color=050505"
-  alt="Dhanush Top Languages"
-/><br><br>
-<img
-  src="https://streak-stats.demolab.com/?user=dhanush080607&theme=dark&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=FF0000"
-  alt="Dhanush GitHub Streak"
-/>
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=dhanush080607&show_icons=true&theme=dark&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=050505"
+    alt="Dhanush GitHub Stats"
+  />
+  <br><br>
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dhanush080607&layout=compact&theme=dark&hide_border=true&title_color=FF0000&text_color=FFFFFF&bg_color=050505"
+    alt="Dhanush Top Languages"
+  />
+  <br><br>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=dhanush080607&theme=dark&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&background=050505"
+    alt="Dhanush GitHub Streak"
+  />
 </p>
 
 <br>
