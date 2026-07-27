@@ -15,10 +15,8 @@
 <br>
 
 <p align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-<br><br>
-<strong>🏎️ START YOUR ENGINES</strong>
-<br><br>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
+<strong>🏎️ START YOUR ENGINES</strong><br>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </p>
 
@@ -50,7 +48,7 @@
 
 # 🏁 THE DRIVER
 
-<table>
+<table width="100%">
 <tr>
 <td width="60%" valign="top">
 
@@ -72,7 +70,7 @@ My journey is simple:
 **LEARN → BUILD → BREAK → FIX → DEPLOY → REPEAT**
 
 </td>
-<td width="40%" align="center">
+<td width="40%" align="center" valign="middle">
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=2500&pause=1000&color=FF2B2B&center=true&vCenter=true&width=400&height=150&lines=DRIVER%3A+DHANUSH;STATUS%3A+ACTIVE;MISSION%3A+BUILD;SPEED%3A+INCREASING;DESTINATION%3A+UNKNOWN"/>
 
@@ -154,7 +152,7 @@ Build technology that can move from<br>
 
 <br>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -183,7 +181,7 @@ Built to help people move faster from **"I need a job"** to **"I'm ready to appl
 ⚙️ <a href="https://github.com/dhanush080607/AI-Resume-Generator"><strong>OPEN GARAGE → SOURCE CODE</strong></a>
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="middle">
 
 <img src="https://raw.githubusercontent.com/dhanush080607/AI-Resume-Generator/main/screenshots/homepage.png" width="100%"/>
 
@@ -269,7 +267,7 @@ PostgreSQL
 
 <table align="center" width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🥇 LAP 01
 ### Content Creator AI Agent
@@ -278,7 +276,7 @@ AI-powered content generation and automation.<br><br>
 🏁 <a href="https://github.com/dhanush080607/Content-Creator-Ai-Agent">VIEW PROJECT</a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🥈 LAP 02
 ### Docker Python Webpage
@@ -289,7 +287,7 @@ Exploring containerisation and deployment.<br><br>
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 ## 🥉 LAP 03
 ### Temperature Converter
@@ -298,7 +296,7 @@ A simple Python utility project.<br><br>
 🏁 <a href="https://github.com/dhanush080607/Temperature-Converter-Project">VIEW PROJECT</a>
 
 </td>
-<td>
+<td valign="top">
 
 ## 🚀 LAP 04
 ### Personal Portfolio
@@ -416,24 +414,20 @@ I believe technology becomes meaningful when<br>
 <br>
 
 <p align="center">
-  <!-- Fast High-Uptime Stats Mirror -->
   <img src="https://github-readme-stats-fast.vercel.app/api?username=dhanush080607&show_icons=true&theme=dark&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=050505" alt="GitHub Stats"/>
 </p>
 
 <br>
 
 <p align="center">
-  <!-- Reliable Static Shield for A+ Rank -->
   <img src="https://img.shields.io/badge/RANK-A%2B-FF0000?style=for-the-badge&logo=github&logoColor=white" alt="A+ Rank Shield"/>
 </p>
 
 <br>
 
 <p align="center">
-  <!-- Fast High-Uptime Top Languages Mirror -->
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dhanush080607&layout=compact&theme=dark&hide_border=true&title_color=FF0000&text_color=FFFFFF&bg_color=050505" alt="Top Languages"/>
   <br><br>
-  <!-- Stable Demolab Streak Mirror -->
   <img src="https://streak-stats.demolab.com?user=dhanush080607&theme=dark&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&background=050505" alt="GitHub Streak"/>
 </p>
 
