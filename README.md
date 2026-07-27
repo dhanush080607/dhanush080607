@@ -416,17 +416,25 @@ I believe technology becomes meaningful when<br>
 <br>
 
 <p align="center">
-  <!-- General Stats Card displaying A+ Rank explicitly -->
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanush080607&show_icons=true&theme=dark&hide_border=true&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=050505" alt="GitHub Stats with A+ Rank Badge"/>
-  <br><br>
-  <!-- Dedicated A+ Rank Badge Card -->
-  <img src="https://github-readme-stats.vercel.app/api/badge?username=dhanush080607&theme=dark&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=050505" alt="A+ Telemetry Rank Badge"/>
-  <br><br>
+  <!-- General Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanush080607&show_icons=true&theme=dark&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=050505" alt="GitHub Stats"/>
+</p>
+
+<br>
+
+<p align="center">
+  <!-- Explicit A+ Rank Badge Shield -->
+  <img src="https://img.shields.io/badge/RANK-A%2B-FF0000?style=for-the-badge&logo=github&logoColor=white" alt="A+ Rank Shield"/>
+</p>
+
+<br>
+
+<p align="center">
   <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush080607&layout=compact&theme=dark&hide_border=true&title_color=FF0000&text_color=FFFFFF&bg_color=050505" alt="Top Languages"/>
   <br><br>
   <!-- Streak Stats Card -->
-  <img src="https://streak-stats.demolab.com?user=dhanush080607&theme=dark&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&background=050505" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanush080607&theme=dark&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&background=050505" alt="GitHub Streak"/>
 </p>
 
 <br>
