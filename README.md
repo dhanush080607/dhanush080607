@@ -1,209 +1,298 @@
-# 👋 Hey, I'm Dhanush
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Developer;Building+Projects+One+Step+at+a+Time;Frontend+Developer+%7C+ML+Enthusiast;Welcome+to+Dhanush+DevSpace+🚀" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=220&section=header&text=Dhanush%20DevSpace&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 </div>
 
 
-## 🚀 About Me
-
-🎓 **Computer Science Engineering - Data Science Student**  
-💻 Passionate about **AI, Machine Learning, Full Stack Development & Data Analytics**  
-🌱 Currently building real-world projects and improving my engineering skills every day.
-
-I love turning ideas into working products — from beautiful user interfaces to AI-powered applications.
-
-My mission:
-
-> **"Building AI. One Project at a Time." 🚀**
-
----
-
-# 🛠️ Tech Stack
-
-## 👨‍💻 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-
-
-## 🌐 Frontend Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-
-
-## 🤖 AI / Data Science
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-
-
-## ⚙️ Backend & Tools
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
----
-
-# 🚀 Featured Projects
-
-
-## 🧠 InsightAI
-### AI Powered Data Analytics Platform
-
-An intelligent analytics platform that transforms raw datasets into meaningful insights.
-
-### Features:
-✅ Upload CSV & Excel Files  
-✅ Interactive Dashboards  
-✅ Data Visualization  
-✅ AI Generated Insights  
-✅ Machine Learning Predictions  
-✅ Model Comparison  
-
-### Tech Used:
-
-React • Vite • Tailwind CSS • FastAPI • Python • Pandas • NumPy • Scikit-learn • Gemini AI • PostgreSQL
-
-
----
-
-## 💰 RupeeCalc
-
-A financial calculator platform designed to simplify money calculations.
-
-Features:
-
-✔ Loan Calculations  
-✔ Financial Tools  
-✔ Responsive UI  
-✔ SEO Optimized Website  
-
-Built with:
-
-HTML • CSS • JavaScript • Vercel
-
-
----
-
-## 🤖 AI Resume Analyzer
-
-An AI-based application that analyzes resumes and provides improvement suggestions.
-
-Features:
-
-✔ Resume Analysis  
-✔ Skill Extraction  
-✔ AI Feedback  
-✔ Career Suggestions
-
-
----
-
-## 📊 Machine Learning Projects
-
-Some ML projects I have worked on:
-
-- Titanic Dataset Analysis
-- TMDB Movie Rating Prediction
-- Bank Marketing Prediction
-- Exploratory Data Analysis Projects
-
-
----
-
-# 🎥 Content Creation
-
-I also document my developer journey through my YouTube channel:
-
-## 🚀 Dhanush DevSpace
-
-> Building AI. One Project at a Time.
-
-Content:
-
-🎯 AI Projects  
-🎯 Machine Learning  
-🎯 Development Tutorials  
-🎯 Building Real Applications  
-🎯 My Developer Journey
-
-
----
-
-# 📚 Currently Learning
-
-🌱 Machine Learning  
-🌱 Deep Learning  
-🌱 Data Analytics  
-🌱 AI Agents  
-🌱 Backend Architecture  
-🌱 Cloud Deployment
-
-
----
-
-# 🏆 Achievements
-
-✨ Built multiple full-stack projects  
-✨ Developed AI-powered applications  
-✨ Completed AI Resume Analyzer project  
-✨ Created deployed web applications  
-✨ Exploring AI Engineering & ML
-
-
----
-
-# 📈 GitHub Stats
-
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hdhanush2007&show_icons=true&theme=tokyonight" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Developer;Frontend+Engineer;Building+AI+Powered+Applications;Machine+Learning+Explorer;Building+AI.+One+Project+at+a+Time+🚀"/>
+
+</div>
+
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hdhanush2007&theme=tokyonight" />
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=hdhanush2007&label=Profile%20Views&color=00ffff&style=for-the-badge"/>
 
 </div>
 
 
 ---
 
-# 🐍 Contribution Snake
+# 🧑‍💻 About Me
+
+
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+
+Hey! I'm **Dhanush** 👋
+
+🎓 CSE - Data Science Student  
+🤖 AI & Machine Learning Enthusiast  
+💻 Full Stack Developer  
+🎨 UI Designer  
+🚀 Builder of real-world applications
+
+
+I enjoy creating:
+
+```
+AI Applications
+Data Analytics Platforms
+Machine Learning Models
+Modern Web Experiences
+Developer Tools
+```
+
+
+My vision:
+
+> ⚡ Building AI. One Project at a Time.
+
+
+<br clear="right"/>
+
+
+---
+
+# ⚡ Tech Universe
+
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/hdhanush2007/hdhanush2007/output/github-contribution-grid-snake.svg"/>
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,c,java,js"/>
+
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite"/>
+
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres"/>
+
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma"/>
+
 
 </div>
 
 
 ---
 
-# 🤝 Connect With Me
+# 🚀 Featured Builds
+
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+
+## 🧠 InsightAI
+
+### AI Data Analytics Platform
+
+
+<img src="https://img.shields.io/badge/Status-Development-blue?style=for-the-badge"/>
+
+
+Transforming raw datasets into intelligent insights.
+
+
+✨ Upload Data  
+✨ Interactive Dashboards  
+✨ AI Analysis  
+✨ ML Predictions  
+✨ Data Visualization  
+
+
+Stack:
+
+```
+React
+FastAPI
+Python
+Pandas
+Scikit-Learn
+Gemini AI
+PostgreSQL
+```
+
+
+</td>
+
+
+<td width="50%">
+
+
+## 💰 RupeeCalc
+
+
+### Financial Calculator Platform
+
+
+<img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge"/>
+
+
+A simple financial toolkit built for everyday calculations.
+
+
+Features:
+
+✔ Responsive UI  
+✔ SEO Optimized  
+✔ Fast Performance  
+✔ Deployed Web App
+
+
+
+</td>
+
+</tr>
+
+
+</table>
+
+
+---
+
+# 🤖 AI Journey
+
+
+```text
+
+2025
+ |
+ |---- Frontend Development
+ |
+ |---- Full Stack Projects
+ |
+ |---- Data Science Exploration
+ |
+ |---- Machine Learning
+ |
+ |---- AI Engineering
+ |
+2026 🚀
+
+Building intelligent systems
+
+```
+
+
+---
+
+# 📊 GitHub Analytics
+
 
 <div align="center">
+
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=hdhanush2007&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdhanush2007&layout=compact&theme=tokyonight&hide_border=true"/>
+
+
+</div>
+
+
+<br>
+
+
+<div align="center">
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hdhanush2007&theme=tokyonight&hide_border=true"/>
+
+
+</div>
+
+
+
+---
+
+# 🐍 Contribution Activity
+
+
+<div align="center">
+
+
+<img src="https://raw.githubusercontent.com/hdhanush2007/hdhanush2007/output/github-contribution-grid-snake-dark.svg">
+
+
+</div>
+
+
+
+---
+
+# 🎬 Creator Mode Activated
+
+
+<div align="center">
+
+
+<img src="https://img.shields.io/badge/YouTube-Dhanush%20DevSpace-red?style=for-the-badge&logo=youtube"/>
+
+
+<br>
+
+
+Building videos about:
+
+
+🚀 AI Projects  
+🧠 Machine Learning  
+💻 Development Journey  
+📊 Data Science  
+
+
+</div>
+
+
+
+---
+
+# 🌐 Connect With Me
+
+
+<div align="center">
+
 
 <a href="https://github.com/hdhanush2007">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
 </a>
 
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+
+<a href="YOUR_LINKEDIN_URL">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
 </a>
+
+
+<a href="YOUR_YOUTUBE_URL">
+
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
+
+</a>
+
 
 </div>
 
@@ -212,8 +301,17 @@ Content:
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
 
-### Let's build something amazing with AI 🚀
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&width=700&lines=Code.+Create.+Innovate.+Repeat.;Welcome+to+my+Digital+Space+🚀">
+
+
+<br>
+
+
+⭐ If you like my work, consider starring my repositories!
+
 
 </div>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00F7FF&height=120&section=footer"/>
