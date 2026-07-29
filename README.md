@@ -1,84 +1,219 @@
-<!-- ========================================================= -->
-<!--                   DHANUSH DEVSPACE                        -->
-<!-- ========================================================= -->
+# 👋 Hey, I'm Dhanush
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:0f172a,100:06b6d4&text=DHANUSH%20DEVSPACE&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Building%20AI.%20One%20Project%20at%20a%20Time.&descSize=16&descAlignY=65"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/dhanush080607">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://ai-resume-generator-project.streamlit.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-06b6d4?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/h-dhanush-189565327">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:h.dhanush2007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Developer;Building+Projects+One+Step+at+a+Time;Frontend+Developer+%7C+ML+Enthusiast;Welcome+to+Dhanush+DevSpace+🚀" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=700&lines=AI+%7C+Data+Science+%7C+Full-Stack;Building+Real+Products+%F0%9F%9A%80;Currently+Building+InsightAI"/>
-</p>
+</div>
+
+
+## 🚀 About Me
+
+🎓 **Computer Science Engineering - Data Science Student**  
+💻 Passionate about **AI, Machine Learning, Full Stack Development & Data Analytics**  
+🌱 Currently building real-world projects and improving my engineering skills every day.
+
+I love turning ideas into working products — from beautiful user interfaces to AI-powered applications.
+
+My mission:
+
+> **"Building AI. One Project at a Time." 🚀**
 
 ---
 
-### 👋 About Me
+# 🛠️ Tech Stack
 
-I'm **Dhanush**, a **Computer Science & Engineering (Data Science)** student passionate about turning ideas into deployable software.
+## 👨‍💻 Programming Languages
 
-- 🤖 **Focus:** AI Systems, Data Analytics & Full-Stack Development
-- 🧠 **Currently Building:** **InsightAI** (AI-Powered Data Intelligence Platform)
-- ⚡ **Core Philosophy:** Learn → Experiment → Build → Deploy
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
----
 
-### 🚀 Featured Projects
+## 🌐 Frontend Development
 
-#### 🤖 [AI Resume Studio](https://ai-resume-generator-project.streamlit.app/)
-> **Generative AI Career Assistant**
-- Generates tailored resume summaries, cover letters, and ATS score reports using Google Gemini AI.
-- **Tech Stack:** Python, Streamlit, Google Gemini AI, ReportLab
-- [🚀 Live Demo](https://ai-resume-generator-project.streamlit.app/) | [💻 Source Code](https://github.com/dhanush080607/AI-Resume-Generator)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
-#### 🧠 [InsightAI](https://github.com/dhanush080607) *(Actively Building)*
-> **AI-Powered Data Intelligence Platform**
-- Upload datasets (`.csv`/`.xlsx`) to automatically generate visualizations, machine learning predictions, and AI insights.
-- **Tech Stack:** React, Tailwind CSS, FastAPI, Python, Pandas, Scikit-learn, Gemini AI, PostgreSQL
 
----
+## 🤖 AI / Data Science
 
-### 🧪 Quick Links to Other Work
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 
-- ✍️ **[Content Creator AI Agent](https://github.com/dhanush080607/Content-Creator-Ai-Agent):** Generative AI workflow automation.
-- 🐳 **[Docker Python Webpage](https://github.com/dhanush080607/docker-python-webpage):** Containerized Python app setup.
-- 🌐 **[Personal Portfolio](https://dhanush-portfolio1-two.vercel.app/):** My personal showcase website.
 
----
+## ⚙️ Backend & Tools
 
-### 🧰 Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,js,react,tailwind,fastapi,postgres,docker,git,github,vscode&perline=6"/>
-</p>
-
-`Pandas` • `NumPy` • `Scikit-Learn` • `Streamlit` • `Gemini AI API` • `REST APIs`
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
-### 📊 GitHub Stats
+# 🚀 Featured Projects
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhanush080607&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhanush080607&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+
+## 🧠 InsightAI
+### AI Powered Data Analytics Platform
+
+An intelligent analytics platform that transforms raw datasets into meaningful insights.
+
+### Features:
+✅ Upload CSV & Excel Files  
+✅ Interactive Dashboards  
+✅ Data Visualization  
+✅ AI Generated Insights  
+✅ Machine Learning Predictions  
+✅ Model Comparison  
+
+### Tech Used:
+
+React • Vite • Tailwind CSS • FastAPI • Python • Pandas • NumPy • Scikit-learn • Gemini AI • PostgreSQL
+
 
 ---
 
-<p align="center">
-  <sub>© 2026 Dhanush • Built with code & curiosity ⚡</sub>
-</p>
+## 💰 RupeeCalc
+
+A financial calculator platform designed to simplify money calculations.
+
+Features:
+
+✔ Loan Calculations  
+✔ Financial Tools  
+✔ Responsive UI  
+✔ SEO Optimized Website  
+
+Built with:
+
+HTML • CSS • JavaScript • Vercel
+
+
+---
+
+## 🤖 AI Resume Analyzer
+
+An AI-based application that analyzes resumes and provides improvement suggestions.
+
+Features:
+
+✔ Resume Analysis  
+✔ Skill Extraction  
+✔ AI Feedback  
+✔ Career Suggestions
+
+
+---
+
+## 📊 Machine Learning Projects
+
+Some ML projects I have worked on:
+
+- Titanic Dataset Analysis
+- TMDB Movie Rating Prediction
+- Bank Marketing Prediction
+- Exploratory Data Analysis Projects
+
+
+---
+
+# 🎥 Content Creation
+
+I also document my developer journey through my YouTube channel:
+
+## 🚀 Dhanush DevSpace
+
+> Building AI. One Project at a Time.
+
+Content:
+
+🎯 AI Projects  
+🎯 Machine Learning  
+🎯 Development Tutorials  
+🎯 Building Real Applications  
+🎯 My Developer Journey
+
+
+---
+
+# 📚 Currently Learning
+
+🌱 Machine Learning  
+🌱 Deep Learning  
+🌱 Data Analytics  
+🌱 AI Agents  
+🌱 Backend Architecture  
+🌱 Cloud Deployment
+
+
+---
+
+# 🏆 Achievements
+
+✨ Built multiple full-stack projects  
+✨ Developed AI-powered applications  
+✨ Completed AI Resume Analyzer project  
+✨ Created deployed web applications  
+✨ Exploring AI Engineering & ML
+
+
+---
+
+# 📈 GitHub Stats
+
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hdhanush2007&show_icons=true&theme=tokyonight" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hdhanush2007&theme=tokyonight" />
+
+</div>
+
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/hdhanush2007/hdhanush2007/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/hdhanush2007">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+</div>
+
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+### Let's build something amazing with AI 🚀
+
+</div>
