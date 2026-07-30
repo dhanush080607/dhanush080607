@@ -209,3 +209,255 @@ ANALYSE    VISUALISE    EXPLORE
 
 
 > 🚧 This is my primary project and my biggest learning journey.
+
+---
+
+# 🧪 OTHER EXPERIMENTS
+
+
+## ✍️ Content Creator AI Agent
+
+Exploring how Generative AI can automate content creation and assist creators.
+
+🔗 Repository:
+https://github.com/dhanush080607/Content-Creator-Ai-Agent
+
+
+---
+
+## 🐳 Docker Python Webpage
+
+A Python application built to understand Docker containerization and deployment workflows.
+
+🔗 Repository:
+https://github.com/dhanush080607/docker-python-webpage
+
+
+---
+
+## 🌡️ Temperature Converter
+
+A beginner-friendly Python utility project for temperature conversion.
+
+🔗 Repository:
+https://github.com/dhanush080607/Temperature-Converter-Project
+
+
+---
+
+## 🌐 Personal Portfolio
+
+My developer portfolio showcasing my projects, skills, and journey.
+
+🌐 Live:
+https://dhanush-portfolio1-two.vercel.app/
+
+🔗 Repository:
+https://github.com/dhanush080607/dhanush-portfolio1
+
+
+
+---
+
+# 🧰 TECH ARSENAL
+
+
+## 💻 Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,java,javascript,html,css"/>
+
+</p>
+
+
+## ⚛️ Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind"/>
+
+</p>
+
+
+## ⚙️ Backend & Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgresql"/>
+
+</p>
+
+
+## 🤖 AI & Data Science
+
+
+
+## 🛠️ Tools
+
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma"/>
+
+</p>
+
+
+Also working with:
+
+`Streamlit` `Vercel` `Netlify` `REST APIs`
+
+
+
+---
+
+# 🧠 LEARNING LAB
+
+
+
+---
+
+# 🌍 OPEN SOURCE JOURNEY
+
+
+Currently exploring open-source contribution.
+
+
+My goals:
+
+- 🐛 Fix real-world bugs
+- ✨ Add useful features
+- 📚 Improve documentation
+- 🤝 Collaborate with developers
+
+
+> "Great software is built by communities."
+
+
+
+---
+
+# 🏆 ACHIEVEMENTS
+
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=dhanush080607&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+</p>
+
+
+Future goals:
+
+⭐ Earn GitHub stars  
+🦈 Contribute to open source  
+🚀 Build developer tools  
+🤝 Collaborate globally
+
+
+
+---
+
+# 🗺️ ROADMAP
+
+
+
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+
+<p align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhanush080607&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhanush080607&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=dhanush080607&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanush080607&theme=github-dark&hide_border=true"/>
+
+</p>
+
+
+
+---
+
+# 💡 DEVELOPER MINDSET
+
+
+
+
+---
+
+# 📡 CONNECT
+
+
+<p align="center">
+
+If you are building something interesting in:
+
+AI • Data Science • Machine Learning • Software Development
+
+Let's connect 🚀
+
+</p>
+
+
+<p align="center">
+
+<a href="https://github.com/dhanush080607">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github"/>
+</a>
+
+
+<a href="https://www.linkedin.com/in/h-dhanush-189565327">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+
+<a href="mailto:h.dhanush2007@gmail.com">
+<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+
+---
+
+<p align="center">
+
+### ⚡ BUILDING IN PUBLIC
+
+### 🚀 LEARNING EVERY DAY
+
+### 🧠 CREATING WHAT'S NEXT
+
+</p>
+
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:164e63,100:020617&height=150&section=footer"/>
+
+</p>
+
+
+<p align="center">
+
+<sub>
+© 2026 Dhanush • Built with curiosity, code & caffeine ☕
+</sub>
+
+</p>
