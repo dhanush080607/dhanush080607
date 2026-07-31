@@ -1,219 +1,123 @@
 <div align="center">
 
-# DHANUSH
+# ⚡ DHANUSH DEVSPACE
 
-### I don't collect certificates.
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Developer;React+%7C+Python+%7C+FastAPI;Building+InsightAI;Machine+Learning+Explorer;Welcome+to+my+GitHub!">
 
-### I build things.
-
----
-
-*"Every repository is a chapter of my journey."*
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:020617,50:0ea5e9,100:38bdf8"/>
 
 </div>
 
-<br>
-
-# 01 — WHO AM I?
-
-I'm not trying to become another developer.
-
-I'm trying to become someone who builds software that people actually use.
-
-Some days I write React.
-
-Some days I fight bugs.
-
-Some days I spend six hours fixing one line.
-
-Every day I learn.
-
 ---
 
-# 02 — WHAT I'M BUILDING
+## 👨‍💻 About Me
 
-## 🚀 InsightAI
-
-Not just another dashboard.
-
-An AI platform that helps people understand their data.
-
-Built step by step.
-
-Publicly.
-
----
-
-## 💰 RupeeCalc
-
-A project that taught me
-
-✔ UI
-
-✔ SEO
-
-✔ Deployment
-
-✔ Performance
-
-Every project teaches something.
-
----
-
-# 03 — MY RULES
-
-```
-Build before perfect.
-
-Ship before fear.
-
-Learn before ego.
-
-Consistency beats motivation.
-
-Stay curious.
+```yaml
+Name: Dhanush
+Role: AI & Full Stack Developer
+Focus:
+  - Artificial Intelligence
+  - Machine Learning
+  - React
+  - FastAPI
+Current Project: InsightAI
+Goal: Build AI products that impact millions.
 ```
 
 ---
 
-# 04 — CURRENT STATUS
-
-```
-Learning
-
-██████████████░░
-
-Building
-
-████████████████
-
-Debugging
-
-██████████░░░░
-
-Coffee
-
-████████████░░
-
-Sleep
-
-██░░░░░░░░░░░░
-```
-
----
-
-# 05 — MY TOOLBOX
-
-```
-Python
-
-React
-
-FastAPI
-
-JavaScript
-
-Tailwind CSS
-
-Git
-
-GitHub
-
-Docker
-
-PostgreSQL
-
-VS Code
-
-Figma
-```
-
----
-
-# 06 — THIS YEAR
-
-```
-[x] Build real projects
-
-[x] Start YouTube
-
-[x] Learn AI
-
-[x] Learn FastAPI
-
-[ ] Contribute to Open Source
-
-[ ] Launch SaaS
-
-[ ] Help 10,000 Developers
-```
-
----
-
-# 07 — GITHUB
+## 🚀 Tech Stack
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent"/>
+<img src="https://skillicons.dev/icons?i=python,react,fastapi,js,html,css,tailwind,nodejs,postgres,docker,git,github,vscode"/>
 
 </p>
 
 ---
 
-# 08 — IF YOU VISIT MY REPOSITORIES
+## 📂 Featured Projects
 
-You'll find
+✨ **InsightAI** – AI-powered analytics platform
 
-Ideas becoming products.
+💰 **RupeeCalc** – Smart financial calculator
 
-Mistakes becoming lessons.
-
-Code becoming experience.
+📄 **AI Resume Analyzer** – AI-powered resume review
 
 ---
 
-# 09 — CURRENT MISSION
+## 📊 GitHub Stats
 
-```
-while(alive){
+<p align="center">
 
-    Learn();
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-    Build();
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-    Improve();
+</p>
 
-    Repeat();
+<p align="center">
 
-}
-```
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-# 10 — BEFORE YOU LEAVE
+## 🏆 Achievements
 
-If one of my repositories helps you,
+<p align="center">
 
-⭐ Star it.
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=4&no-frame=true"/>
 
-If one inspires you,
+</p>
 
-Build something even better.
+---
 
-Because that's how technology moves forward.
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Complete InsightAI
+- 🤖 Master Machine Learning
+- 🌍 Contribute to Open Source
+- 📺 Grow Dhanush DevSpace
+- 💡 Build AI products
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://youtube.com/@YOUR_CHANNEL">
+<img src="https://skillicons.dev/icons?i=youtube"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### Thanks for stopping by.
+### ⭐ "Learn • Build • Share • Repeat"
 
-See you in the next commit.
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:38bdf8,100:020617"/>
 
 </div>
