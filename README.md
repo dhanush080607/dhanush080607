@@ -1,125 +1,184 @@
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,35:0f172a,70:06b6d4,100:38bdf8&text=DHANUSH%20DEVSPACE&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=40"/>
-</p>
+<div align="center">
 
-<p align="center">
+# 🚀 DHANUSH // AI RESEARCH LAB
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Dhanush;AI+Developer+%7C+Data+Science+Student;React+%7C+FastAPI+%7C+Python;Building+InsightAI;Building+AI.+One+Project+at+a+Time.;Welcome+to+my+GitHub!"/>
+### *Exploring AI • Engineering Products • Building the Future*
 
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=600&size=24&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+Research+Lab...;Artificial+Intelligence;Machine+Learning;React+Developer;FastAPI+Builder;Always+Learning+🚀">
 
----
+<img src="https://capsule-render.vercel.app/api?type=blur&height=180&color=0:020617,50:0891b2,100:38bdf8"/>
 
-# 💫 About Me
-
-<img align="right" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-🚀 AI Developer
-
-💻 Full Stack Developer
-
-📊 Data Science Student
-
-🤖 Machine Learning Enthusiast
-
-🎥 YouTube Creator — **Dhanush DevSpace**
-
-🌱 Currently Building **InsightAI**
-
-🎯 Goal
-
-> Build AI products that solve real-world problems and inspire developers through content.
+</div>
 
 ---
 
-# 🚀 Current Project
+# 🛰 Mission Control
 
-## 🤖 InsightAI
+```yaml
+Developer: Dhanush
 
-AI Powered Data Analytics Platform
+Status: Online
 
-### Features
+Mission:
+ Build intelligent software
+ that makes technology easier
+ for everyone.
 
-- CSV & Excel Upload
-- Interactive Dashboard
-- AI Insights
-- Data Visualization
-- Machine Learning Predictions
-- Report Generation
-- FastAPI Backend
-- React Frontend
+Current Focus:
+ • AI
+ • Machine Learning
+ • Full Stack Development
 
----
-
-# ⚡ Tech Stack
-
-## Programming
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,c,java,javascript"/>
-
-</p>
-
-## Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind"/>
-
-</p>
-
-## Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs"/>
-
-</p>
-
-## Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=postgresql"/>
-
-</p>
-
-## Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva,docker"/>
-
-</p>
-
----
-
-# 🌟 What I'm Learning
-
-```text
-███████████████████░░░░░  React
-█████████████████░░░░░░░  FastAPI
-████████████████░░░░░░░░ Machine Learning
-███████████████░░░░░░░░░ Data Science
-██████████████░░░░░░░░░░ AI Engineering
+Next Destination:
+ AI Engineer
 ```
 
 ---
 
-# 📈 GitHub Stats
+# 🌍 Current Expedition
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Project
+
+InsightAI
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Progress
+
+███████████░░░░░░
+
+Building
+
+✔ React
+
+✔ Tailwind
+
+✔ Charts
+
+✔ Upload System
+
+◉ FastAPI
+
+◉ AI Analysis
+
+○ Machine Learning
+
+○ Deployment
+```
+
+---
+
+# 🧪 Research Areas
+
+| Field | Experience |
+|---------|------------|
+| 🤖 Artificial Intelligence | ███████░░ |
+| 📊 Data Science | ██████░░░ |
+| ⚛ React | █████████ |
+| 🐍 Python | █████████ |
+| ⚡ JavaScript | ████████ |
+| 🚀 FastAPI | ██████░░ |
+| 🗄 PostgreSQL | ██████░░ |
+| 🐳 Docker | ████░░░░ |
+
+---
+
+# 📂 Active Experiments
+
+## 🤖 InsightAI
+
+```
+An AI-powered analytics platform
+that transforms raw datasets into
+meaningful insights.
+```
+
+---
+
+## 💰 RupeeCalc
+
+```
+Modern financial calculator
+focused on speed,
+SEO,
+and user experience.
+```
+
+---
+
+## 📄 Resume Analyzer
+
+```
+AI-powered resume review
+using modern language models.
+```
+
+---
+
+# ⚙ Tech Arsenal
+
+### Languages
+
+```
+Python
+JavaScript
+C
+Java
+SQL
+```
+
+---
+
+### Frameworks
+
+```
+React
+
+Tailwind CSS
+
+FastAPI
+
+Vite
+
+Node.js
+```
+
+---
+
+### Tools
+
+```
+Git
+
+GitHub
+
+VS Code
+
+Docker
+
+Figma
+
+Canva
+
+PostgreSQL
+```
+
+---
+
+# 📡 Live Dashboard
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
-
-# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -129,114 +188,106 @@ AI Powered Data Analytics Platform
 
 ---
 
-# 📊 Contribution Graph
-
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🎯 2026 Objectives
 
-<p align="center">
+```
+☑ Build InsightAI
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=7&margin-w=15&margin-h=15"/>
+☐ Reach 100 GitHub followers
 
-</p>
+☐ Launch AI SaaS
 
----
+☐ Publish 50 YouTube videos
 
-# 🚀 Featured Projects
+☐ Master Machine Learning
 
-### 🤖 InsightAI
+☐ Contribute to Open Source
 
-AI Powered Data Analytics Platform
-
-⭐ React + FastAPI + Machine Learning
-
----
-
-### 💰 RupeeCalc
-
-Modern Financial Calculator
-
-⭐ SEO Optimized
-
-⭐ Google Indexed
+☐ Build AI Agents
+```
 
 ---
 
-### 🤖 AI Resume Analyzer
+# 🌌 Philosophy
 
-Resume Analysis using Gemini AI
+```
+Learn.
 
----
+Build.
 
-### 📊 Data Science Projects
+Fail.
 
-EDA
+Improve.
 
-Machine Learning
+Repeat.
 
-Visualization
-
-Prediction Models
-
----
-
-# 📺 YouTube Journey
-
-### Dhanush DevSpace
-
-🎥 Building AI
-
-💻 Full Stack Development
-
-📊 Data Science
-
-🚀 Real Projects
-
-📚 Tutorials
+Every commit
+is one step closer
+to something amazing.
+```
 
 ---
 
-# 🌐 Connect With Me
+# 📖 Daily Workflow
 
-<p>
+```
+Wake Up
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+↓
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+Learn Something New
 
-<a href="https://youtube.com/@YOUR_CHANNEL">
-<img src="https://skillicons.dev/icons?i=youtube"/>
-</a>
+↓
 
-</p>
+Build a Project
+
+↓
+
+Commit Changes
+
+↓
+
+Record YouTube
+
+↓
+
+Share Knowledge
+
+↓
+
+Repeat
+```
 
 ---
 
-# 💭 Developer Quote
+# 🌐 Connect
 
-> "Code. Learn. Build. Share. Repeat."
+```
+GitHub
+
+LinkedIn
+
+YouTube
+
+Portfolio
+```
 
 ---
 
-<p align="center">
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+### ⭐ Thanks for visiting my laboratory.
 
-</p>
+*"Innovation begins with curiosity."*
 
-<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:38bdf8,100:020617"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:020617&height=150&section=footer"/>
-
-</p>
+</div>
