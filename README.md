@@ -142,6 +142,8 @@ Open Source          ███████░░░░░░░░░░░░�
 
 ---
 
+---
+
 ## `06` — 📊 GITHUB ANALYTICS
 
 <div align="center">
@@ -150,17 +152,25 @@ Open Source          ███████░░░░░░░░░░░░�
 
 <br/>
 
+<a href="https://github.com/dhanush080607">
+
 <img
-src="https://github-readme-stats.vercel.app/api?username=dhanush080607&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050B14&title_color=00E5FF&icon_color=8B5CF6&text_color=B8F3FF"
+src="https://github-readme-stats.vercel.app/api?username=dhanush080607&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&title_color=00E5FF&icon_color=8B5CF6&text_color=B8F3FF&bg_color=050816"
 width="48%"
 alt="Dhanush GitHub Statistics"
 />
 
+</a>
+
+<a href="https://github.com/dhanush080607">
+
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush080607&layout=compact&langs_count=8&hide_border=true&bg_color=050B14&title_color=8B5CF6&text_color=B8F3FF"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush080607&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=8B5CF6&text_color=B8F3FF&bg_color=050816"
 width="48%"
 alt="Dhanush Top Languages"
 />
+
+</a>
 
 <br/><br/>
 
@@ -169,7 +179,7 @@ alt="Dhanush Top Languages"
 <br/>
 
 <img
-src="https://streak-stats.demolab.com/?user=dhanush080607&hide_border=true&background=050B14&ring=00E5FF&fire=EC4899&currStreakLabel=00E5FF&sideLabels=8B5CF6&currStreakNum=FFFFFF&sideNums=B8F3FF&dates=6B8A99&stroke=00E5FF"
+src="https://streak-stats.demolab.com/?user=dhanush080607&theme=tokyonight&hide_border=true&background=050816&ring=00E5FF&fire=EC4899&currStreakLabel=00E5FF&sideLabels=8B5CF6&currStreakNum=FFFFFF&sideNums=B8F3FF&dates=6B8A99"
 width="75%"
 alt="Dhanush GitHub Streak"
 />
@@ -181,7 +191,7 @@ alt="Dhanush GitHub Streak"
 <br/>
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=dhanush080607&bg_color=050B14&color=B8F3FF&line=00E5FF&point=EC4899&area_color=8B5CF6&area=true&hide_border=true&custom_title=DHANUSH%20DEVSPACE%20%2F%2F%20CONTRIBUTION%20MATRIX"
+src="https://github-readme-activity-graph.vercel.app/graph?username=dhanush080607&bg_color=050816&color=B8F3FF&line=00E5FF&point=EC4899&area=true&hide_border=true"
 width="95%"
 alt="Dhanush GitHub Activity"
 />
