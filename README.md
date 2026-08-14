@@ -1,20 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:071a2e,100:00e5ff&text=DHANUSH%20DEVSPACE&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=AI%20%E2%80%A2%20ML%20%E2%80%A2%20DATA%20%E2%80%A2%20FULL%20STACK&descAlignY=60&descSize=18&animation=twinkling"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=700&color=00E5FF&center=true&vCenter=true&width=700&lines=Welcome+to+Dhanush+DevSpace;Building+AI-powered+applications;Learning+Machine+Learning+%26+Data+Science;Turning+ideas+into+real+products;Learn.+Build.+Break.+Fix.+Deploy.+Repeat." alt="Typing SVG" />
+<img src="./assets/dhanush-ai-core.gif" width="100%" alt="Dhanush DevSpace AI Core animated banner"/>
 
 <br/>
 
-<a href="https://github.com/dhanush080607">
-<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00E5FF"/>
-</a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
-</a>
-<a href="https://dhanush-portfolio1-two.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=vercel&logoColor=00E5FF"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer+in+Progress;Data+Science+%7C+Generative+AI;Full-Stack+Developer;Building+real+products%2C+not+just+tutorials;Learn.+Build.+Break.+Fix.+Deploy.+Repeat." alt="Typing animation"/>
+
+<br/><br/>
+
+<a href="https://github.com/dhanush080607"><img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00E5FF"/></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/></a>
+<a href="https://dhanush-portfolio1-two.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=vercel&logoColor=00E5FF"/></a>
 
 <br/><br/>
 
@@ -24,353 +20,119 @@
 
 ---
 
-# `// SYSTEM INITIALIZED`
+## `// SYSTEM INITIALIZED`
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
 ║                    DHANUSH DEVSPACE                          ║
 ║                                                              ║
 ║        AI SYSTEMS  •  DATA  •  CODE  •  EXPERIMENTS         ║
 ║                                                              ║
 ║                  STATUS: 🟢 ONLINE                           ║
-║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-> **Welcome to my digital workspace.**
->
 > I build, experiment, break things, fix them, and turn ideas into working software.
 
 ---
 
-# `01` — 🛰️ NAVIGATION
+## `01` — 👋 ABOUT
 
-|  🧭 | Destination                                 |
-| :-: | :------------------------------------------ |
-|  👋 | [Who Am I?](#02--who-am-i)                  |
-|  🎯 | [Current Mission](#03--current-mission)     |
-|  🚀 | [Featured Projects](#04--featured-projects) |
-|  🧰 | [Tech Arsenal](#05--tech-arsenal)           |
-|  🧠 | [Learning Lab](#06--learning-lab)           |
-|  📊 | [GitHub Analytics](#07--github-analytics)   |
-| 🗺️ | [Roadmap](#08--roadmap)                     |
-|  📡 | [Connect](#09--connect)                     |
+**Dhanush** • CSE — Data Science • AI/ML Engineer in progress
+
+I am focused on **Artificial Intelligence, Machine Learning, Data Science and Full-Stack Development**.
+
+```text
+LEARN → EXPERIMENT → BUILD → BREAK → DEBUG → DEPLOY → IMPROVE
+```
+
+`🤖 AI` `🧠 ML` `📊 DATA` `💻 FULL STACK` `⚙️ BACKEND` `🐳 DEVOPS`
 
 ---
 
-# `02` — 👋 WHO AM I?
+## `02` — 🎯 CURRENT MISSION
+
+| SYSTEM | STATUS |
+|---|:---:|
+| 🤖 AI Applications | 🟢 ACTIVE |
+| 🧠 Machine Learning | 🟢 ACTIVE |
+| 📊 Data Science | 🟢 ACTIVE |
+| 💻 Full Stack | 🟢 ACTIVE |
+| ⚡ Backend | 🟢 ACTIVE |
+| 🐳 DevOps | 🟡 LEARNING |
+| ☁️ Cloud | 🟡 EXPLORING |
+| 🌐 Open Source | 🟡 BUILDING |
+
+### 🧠 Main Build — InsightAI
+
+**AI-powered data intelligence platform**
+
+`UPLOAD → ANALYZE → VISUALIZE → AI INSIGHTS → ML`
+
+---
+
+## `03` — 🚀 FEATURED PROJECTS
+
+### 🧠 InsightAI
+AI-powered platform for dataset analysis, visualization, AI-generated insights and machine-learning workflows.
+
+**Stack:** `React` `Vite` `Tailwind` `FastAPI` `Pandas` `NumPy` `Scikit-learn` `Gemini` `PostgreSQL`
+
+> 🚧 Actively developing
+
+### 🎤 InterviewOS AI
+AI-powered interview preparation platform.
+
+🌐 https://interview-os-ai.lovable.app/  
+💻 https://github.com/dhanush080607/interview-os-ai
+
+### ⚡ ABTalks — 60-Day Coding Challenge
+Daily coding challenge platform focused on consistency, GitHub commits and public progress.
+
+🌐 https://vico-dathon-pb-1.vercel.app/  
+💻 https://github.com/dhanush080607/VicoDathon-pb-1
+
+### 📄 AI Resume Studio
+AI career assistant for resume generation, cover letters, ATS analysis and career improvement.
+
+**Stack:** `Python` `Streamlit` `Gemini AI` `ReportLab`
+
+---
+
+## `04` — 🧰 TECH ARSENAL
 
 <div align="center">
 
-## Hey! I'm **Dhanush** 👋
-
-### `CSE — DATA SCIENCE`
+<img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css,react,vite,tailwind,nodejs,fastapi,postgresql,mongodb,git,github,docker,linux,vscode,vercel&theme=dark"/>
 
 </div>
 
-I'm a Computer Science & Engineering student focused on **Artificial Intelligence, Machine Learning, Data Science and Full-Stack Development**.
-
-I don't want to simply collect technologies.
-
-**I want to build with them.**
-
 ```text
-                 ┌──────────────┐
-                 │     LEARN    │
-                 └──────┬───────┘
-                        ↓
-                 ┌──────────────┐
-                 │  EXPERIMENT  │
-                 └──────┬───────┘
-                        ↓
-                 ┌──────────────┐
-                 │     BUILD    │
-                 └──────┬───────┘
-                        ↓
-                 ┌──────────────┐
-                 │     BREAK    │
-                 └──────┬───────┘
-                        ↓
-                 ┌──────────────┐
-                 │      FIX     │
-                 └──────┬───────┘
-                        ↓
-                 ┌──────────────┐
-                 │    DEPLOY    │
-                 └──────┬───────┘
-                        ↓
-                 ┌──────────────┐
-                 │   IMPROVE    │
-                 └──────┬───────┘
-                        │
-                        └──────────────↺
-```
-
-### ⚡ My Interests
-
-`🤖 Artificial Intelligence`
-
-`🧠 Machine Learning`
-
-`📊 Data Science`
-
-`💻 Full-Stack Development`
-
-`⚙️ Backend Engineering`
-
-`☁️ DevOps & Cloud`
-
-> **My favourite way to learn is to build something that didn't exist before.**
-
----
-
-# `03` — 🎯 CURRENT MISSION
-
-<div align="center">
-
-### `DHANUSH // BUILD STATUS`
-
-| SYSTEM              |     STATUS     |
-| :------------------ | :------------: |
-| 🤖 AI APPLICATIONS  |   🟢 `ACTIVE`  |
-| 📊 DATA SCIENCE     |   🟢 `ACTIVE`  |
-| 🧠 MACHINE LEARNING |   🟢 `ACTIVE`  |
-| 💻 FULL-STACK       |   🟢 `ACTIVE`  |
-| ⚡ BACKEND SYSTEMS   |   🟢 `ACTIVE`  |
-| 🐳 DEVOPS           |  🟡 `LEARNING` |
-| ☁️ CLOUD            | 🟡 `EXPLORING` |
-| 🌐 OPEN SOURCE      |  🟡 `BUILDING` |
-
-</div>
-
-### 🔥 Current Main Project
-
-<div align="center">
-
-# 🧠 `InsightAI`
-
-### `AI-POWERED DATA INTELLIGENCE PLATFORM`
-
-**Upload → Understand → Analyze → Visualize → AI Insights → ML**
-
-</div>
-
----
-
-# `04` — 🚀 FEATURED PROJECTS
-
-## `01` — 🤖 AI RESUME STUDIO
-
-### `AI CAREER ASSISTANT`
-
-An AI-powered career assistant designed to help candidates create better resumes, cover letters and job-specific applications.
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│                    AI RESUME STUDIO                       │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  📄 Resume Generation                                    │
-│  💌 Cover Letter Generation                              │
-│  🎯 ATS Analysis                                         │
-│  📊 Career Insights                                      │
-│  💡 Improvement Suggestions                              │
-│  📥 PDF Export                                            │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
-
-**Built With**
-
-`Python` `Streamlit` `Google Gemini AI` `ReportLab`
-
----
-
-## `02` — 🧠 INSIGHTAI
-
-### `AI-POWERED DATA INTELLIGENCE PLATFORM`
-
-My long-term project focused on making **data analysis, visualization and machine learning more accessible through one intelligent platform.**
-
-### ⚡ THE PIPELINE
-
-```text
-                         ┌─────────────┐
-                         │    UPLOAD   │
-                         │     DATA    │
-                         └──────┬──────┘
-                                ↓
-                         ┌─────────────┐
-                         │  UNDERSTAND │
-                         │     DATA    │
-                         └──────┬──────┘
-                                ↓
-                ┌───────────────┼───────────────┐
-                ↓               ↓               ↓
-           ┌─────────┐     ┌─────────┐     ┌─────────┐
-           │ ANALYZE │     │VISUALIZE│     │ EXPLORE │
-           └────┬────┘     └────┬────┘     └────┬────┘
-                └───────────────┼───────────────┘
-                                ↓
-                         ┌─────────────┐
-                         │ AI INSIGHTS │
-                         └──────┬──────┘
-                                ↓
-                         ┌─────────────┐
-                         │     ML      │
-                         │ PREDICTION  │
-                         └──────┬──────┘
-                                ↓
-                         ┌─────────────┐
-                         │  RESULTS    │
-                         └─────────────┘
-```
-
-### 🧩 Planned Capabilities
-
-* 📂 CSV / Excel Upload
-* 📊 Interactive Analytics Dashboard
-* 📈 Data Visualization
-* 🤖 AI-Generated Dataset Insights
-* 🧠 Machine Learning Predictions
-* 🔬 Model Comparison
-* 📑 Automated Reports
-* 🗄️ PostgreSQL Integration
-
-### 🏗️ Architecture
-
-```text
-              ┌─────────────────────┐
-              │     React + Vite    │
-              └──────────┬──────────┘
-                         ↓
-              ┌─────────────────────┐
-              │    Tailwind CSS     │
-              └──────────┬──────────┘
-                         ↓
-              ┌─────────────────────┐
-              │    FastAPI API      │
-              └──────────┬──────────┘
-                         ↓
-       ┌─────────────────┼─────────────────┐
-       ↓                 ↓                 ↓
-   ┌────────┐       ┌────────┐       ┌────────┐
-   │ Pandas │       │ NumPy  │       │  ML    │
-   └────────┘       └────────┘       └────────┘
-                         │
-                         ↓
-                  ┌─────────────┐
-                  │ Gemini AI   │
-                  └──────┬──────┘
-                         ↓
-                  ┌─────────────┐
-                  │ PostgreSQL  │
-                  └─────────────┘
-```
-
-> 🚧 **Currently under active development**
-
----
-
-## `03` — ⚡ ABTalks
-
-### `60-DAY CODING CHALLENGE`
-
-A coding challenge platform focused on **consistency, daily coding, GitHub commits and public progress.**
-
-```text
-CHOOSE TRACK
-     ↓
-DAILY CHALLENGE
-     ↓
-WRITE CODE
-     ↓
-GITHUB COMMIT
-     ↓
-BUILD STREAK
-     ↓
-SHARE PROGRESS
-     ↓
-BECOME CONSISTENT
-```
-
-🌐 **Live:** [ABTalks](https://vico-dathon-pb-1.vercel.app/)
-
-💻 **Repository:** [GitHub](https://github.com/dhanush080607/VicoDathon-pb-1)
-
----
-
-## `04` — 🎤 InterviewOS AI
-
-### `AI INTERVIEW PREPARATION PLATFORM`
-
-A platform focused on helping candidates prepare for interviews through structured practice and AI-powered assistance.
-
-🌐 **Live:** [InterviewOS AI](https://interview-os-ai.lovable.app/)
-
-💻 **Repository:** [GitHub](https://github.com/dhanush080607/interview-os-ai)
-
----
-
-# `05` — 🧰 TECH ARSENAL
-
-<div align="center">
-
-### `LANGUAGES`
-
-<img src="https://skillicons.dev/icons?i=python,java,c,js,ts&theme=dark"/>
-
-### `FRONTEND`
-
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind&theme=dark"/>
-
-### `BACKEND`
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark"/>
-
-### `AI / DATA`
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark"/>
-
-<br/>
-
-`Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Gemini AI`
-
-### `DATABASE`
-
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb&theme=dark"/>
-
-### `TOOLS / DEVOPS`
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,vercel&theme=dark"/>
-
-</div>
-
----
-
-# `06` — 🧠 LEARNING LAB
-
-```text
-╭────────────────────────────────────────────────────────────╮
-│                    CURRENTLY LEARNING                      │
-├────────────────────────────────────────────────────────────┤
-│                                                            │
-│  🤖 Generative AI                 ████████████████░░  90%  │
-│  🧠 Machine Learning              ███████████████░░░  85%  │
-│  📊 Data Science                  ███████████████░░░  85%  │
-│  ⚛️  Modern React                 ████████████████░░  90%  │
-│  ⚡ FastAPI / Backend              █████████████░░░░░  75%  │
-│  🐳 Docker / DevOps               ██████████░░░░░░░░  60%  │
-│  ☁️  Cloud                        ████████░░░░░░░░░░  45%  │
-│  🔗 Open Source                   ███████░░░░░░░░░░░  40%  │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
+AI / DATA   → Python • Pandas • NumPy • Scikit-learn • Gemini
+FRONTEND    → HTML • CSS • JavaScript • React • Vite • Tailwind
+BACKEND     → Node.js • FastAPI • REST APIs
+DATABASE    → PostgreSQL • MongoDB • SQL
+TOOLS       → Git • GitHub • Docker • Linux • VS Code • Vercel
 ```
 
 ---
 
-# `07` — 📊 GITHUB ANALYTICS
+## `05` — 🧪 LEARNING LAB
+
+```text
+Generative AI        ██████████████████░░  90%
+Machine Learning     █████████████████░░░  85%
+Data Science         █████████████████░░░  85%
+Full Stack           █████████████████░░░  85%
+Backend              ███████████████░░░░░  75%
+Docker / DevOps      ███████████░░░░░░░░  55%
+Cloud                █████████░░░░░░░░░░░  45%
+Open Source          ███████░░░░░░░░░░░░░  40%
+```
+
+---
+
+## `06` — 📊 GITHUB ANALYTICS
 
 <div align="center">
 
@@ -386,98 +148,60 @@ A platform focused on helping candidates prepare for interviews through structur
 
 ---
 
-# `08` — 🗺️ ROADMAP
+## `07` — 🗺️ ROADMAP
 
 ```text
 2025
- │
  ├── Programming Foundations
  ├── Frontend Development
  ├── Git & GitHub
- └── Build Projects
-       │
-       ▼
+ └── Project Building
+        │
+        ▼
 2026
- │
- ├── AI Applications             ✓
- ├── Generative AI               ✓
- ├── Data Science                ✓
- ├── Machine Learning            ✓
- ├── Full-Stack Applications     ✓
- ├── Real-World Deployment       ✓
- └── InsightAI                   🚧
-       │
-       ▼
- NEXT LEVEL
- │
- ├── Advanced Machine Learning
- ├── Production AI Systems
+ ├── Generative AI
+ ├── Data Science
+ ├── Machine Learning
+ ├── Full-Stack Applications
+ ├── Deployment
+ └── InsightAI
+        │
+        ▼
+NEXT LEVEL
+ ├── Advanced ML
+ ├── Production AI
  ├── Backend Architecture
  ├── Cloud & DevOps
- ├── Open Source Contributions
+ ├── Open Source
  ├── GSoC Preparation
  └── AI / ML Engineering
-       │
-       ▼
-    🚀 BUILD
-       │
-       ▼
-    🌎 CONTRIBUTE
-       │
-       ▼
-    🧠 BECOME AN
-       AI/ML ENGINEER
 ```
 
 ---
 
-# `09` — 💡 DEVELOPER MINDSET
+## `08` — 💡 DEVELOPER MINDSET
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║   I DON'T MEASURE PROGRESS BY HOW MANY              ║
-║   TUTORIALS I FINISH.                               ║
-║                                                      ║
-║   I MEASURE IT BY WHAT I CAN BUILD TODAY            ║
-║   THAT I COULDN'T BUILD YESTERDAY.                  ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
+### **BUILD WHAT YOU CAN'T EXPLAIN YET.**
 
-### `LEARN` → `BUILD` → `FAIL` → `DEBUG` → `DEPLOY` → `IMPROVE` → `REPEAT`
+`LEARN` → `BUILD` → `FAIL` → `DEBUG` → `DEPLOY` → `IMPROVE`
 
 </div>
 
 ---
 
-# `10` — 📡 CONNECT
+## `09` — 📡 CONNECT
 
 <div align="center">
 
-### Building something interesting?
-
-### Let's connect. 🤝
-
-<br/>
-
-<a href="https://github.com/dhanush080607">
-<img src="https://img.shields.io/badge/GitHub-Dhanush-050505?style=for-the-badge&logo=github&logoColor=00E5FF"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-050505?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
-</a>
-
-<a href="https://dhanush-portfolio1-two.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-050505?style=for-the-badge&logo=vercel&logoColor=00E5FF"/>
-</a>
+<a href="https://github.com/dhanush080607"><img src="https://img.shields.io/badge/GitHub-Dhanush-050505?style=for-the-badge&logo=github&logoColor=00E5FF"/></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-050505?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/></a>
+<a href="https://dhanush-portfolio1-two.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-050505?style=for-the-badge&logo=vercel&logoColor=00E5FF"/></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00e5ff,50:071a2e,100:050505&section=footer"/>
+<img src="./assets/dhanush-neon-footer.gif" width="100%" alt="Dhanush DevSpace animated footer"/>
 
 ### ⚡ `BUILDING IN PUBLIC.`
 
