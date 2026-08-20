@@ -109,9 +109,9 @@ Currently upgrading: Generative AI · Machine Learning · Data Science · FastAP
 
 # 📊 THE TELEMETRY
 
-![Dhanush's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanush080607&show_icons=true&theme=dark&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=050505)
+![Dhanush's GitHub stats](https://github-readme-stats-yourname.vercel.app/api?username=dhanush080607&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats-yourname.vercel.app/api/top-langs/?username=dhanush080607&layout=compact&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush080607&layout=compact&theme=dark&hide_border=true&title_color=FF0000&text_color=FFFFFF&bg_color=050505)
 
 
 <!-- Streak Stats -->
