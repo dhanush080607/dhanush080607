@@ -1,278 +1,487 @@
 <div align="center">
 
-<img src="./assets/dhanush-ai-core.gif" width="100%" alt="Dhanush DevSpace AI Core animated banner"/>
+<br>
 
-<br/>
+<img src="./assets/synapse-hero.gif"
+width="100%"
+alt="DHANUSH SYNAPSE — AI Engineering"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer+in+Progress;Data+Science+%7C+Generative+AI;Full-Stack+Developer;Building+real+products%2C+not+just+tutorials;Learn.+Build.+Break.+Fix.+Deploy.+Repeat." alt="Typing animation"/>
+<br><br>
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=20&duration=3500&pause=1100&color=FFFFFF&center=true&vCenter=true&width=900&lines=DHANUSH;AI+%2F+ML+ENGINEER+IN+PROGRESS;DATA+%E2%80%A2+INTELLIGENCE+%E2%80%A2+SOFTWARE;BUILDING+SYSTEMS+THAT+THINK" alt="Dhanush"/>
 
-<a href="https://github.com/dhanush080607"><img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00E5FF"/></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/></a>
-<a href="https://dhanush-portfolio1-two.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=vercel&logoColor=00E5FF"/></a>
+<br><br>
 
-<br/><br/>
+<a href="https://github.com/dhanush080607">
+<img src="https://img.shields.io/badge/GITHUB-101014?style=flat-square&logo=github&logoColor=FFFFFF"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=dhanush080607&label=PROFILE%20VISITORS&color=00e5ff&style=for-the-badge"/>
+<a href="https://dhanush-portfolio1-two.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-101014?style=flat-square&logo=vercel&logoColor=FFFFFF"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LINKEDIN-101014?style=flat-square&logo=linkedin&logoColor=FFFFFF"/>
+</a>
+
+<br><br>
+
+`CSE — DATA SCIENCE`   ·   `AI / ML`   ·   `SOFTWARE ENGINEERING`
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="./assets/synapse-divider.gif"
+width="80%"
+alt="Animated neural divider"/>
+
+</div>
+
+# ◌ THE PERSON BEHIND THE SYSTEM
+
+I'm **Dhanush** — a CSE Data Science student building toward **AI/ML Engineering**.
+
+My interests sit at the intersection of:
+
+`ARTIFICIAL INTELLIGENCE`
+
+`MACHINE LEARNING`
+
+`DATA SCIENCE`
+
+`SOFTWARE ENGINEERING`
+
+I learn by turning ideas into things that actually run.
+
+Not just notebooks.
+
+Not just tutorials.
+
+Not just concepts.
+
+**Systems.**
+
+---
+
+<div align="center">
+
+```text
+             IDEA
+               │
+               ▼
+          ┌─────────┐
+          │  DATA   │
+          └────┬────┘
+               │
+        ┌──────┴──────┐
+        ▼             ▼
+      MODEL          AI
+        │             │
+        └──────┬──────┘
+               ▼
+            PRODUCT
+               │
+               ▼
+             USERS
+               │
+               ▼
+             LEARN
+               │
+               └──────────→ REPEAT
+```
 
 </div>
 
 ---
 
-## `// SYSTEM INITIALIZED`
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                    DHANUSH DEVSPACE                          ║
-║                                                              ║
-║        AI SYSTEMS  •  DATA  •  CODE  •  EXPERIMENTS         ║
-║                                                              ║
-║                  STATUS: 🟢 ONLINE                           ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-> I build, experiment, break things, fix them, and turn ideas into working software.
-
----
-
-## `01` — 👋 ABOUT
-
-**Dhanush** • CSE — Data Science • AI/ML Engineer in progress
-
-I am focused on **Artificial Intelligence, Machine Learning, Data Science and Full-Stack Development**.
-
-```text
-LEARN → EXPERIMENT → BUILD → BREAK → DEBUG → DEPLOY → IMPROVE
-```
-
-`🤖 AI` `🧠 ML` `📊 DATA` `💻 FULL STACK` `⚙️ BACKEND` `🐳 DEVOPS`
-
----
-
-## `02` — 🎯 CURRENT MISSION
-
-| SYSTEM | STATUS |
-|---|:---:|
-| 🤖 AI Applications | 🟢 ACTIVE |
-| 🧠 Machine Learning | 🟢 ACTIVE |
-| 📊 Data Science | 🟢 ACTIVE |
-| 💻 Full Stack | 🟢 ACTIVE |
-| ⚡ Backend | 🟢 ACTIVE |
-| 🐳 DevOps | 🟡 LEARNING |
-| ☁️ Cloud | 🟡 EXPLORING |
-| 🌐 Open Source | 🟡 BUILDING |
-
-### 🧠 Main Build — InsightAI
-
-**AI-powered data intelligence platform**
-
-`UPLOAD → ANALYZE → VISUALIZE → AI INSIGHTS → ML`
-
----
-
-## `03` — 🚀 FEATURED PROJECTS
-
-### 🧠 InsightAI
-AI-powered platform for dataset analysis, visualization, AI-generated insights and machine-learning workflows.
-
-**Stack:** `React` `Vite` `Tailwind` `FastAPI` `Pandas` `NumPy` `Scikit-learn` `Gemini` `PostgreSQL`
-
-> 🚧 Actively developing
-
-### 🎤 InterviewOS AI
-AI-powered interview preparation platform.
-
-🌐 https://interview-os-ai.lovable.app/  
-💻 https://github.com/dhanush080607/interview-os-ai
-
-### ⚡ ABTalks — 60-Day Coding Challenge
-Daily coding challenge platform focused on consistency, GitHub commits and public progress.
-
-🌐 https://vico-dathon-pb-1.vercel.app/  
-💻 https://github.com/dhanush080607/VicoDathon-pb-1
-
-### 📄 AI Resume Studio
-AI career assistant for resume generation, cover letters, ATS analysis and career improvement.
-
-**Stack:** `Python` `Streamlit` `Gemini AI` `ReportLab`
-
----
-
-## `04` — 🧰 TECH ARSENAL
+# ◉ CURRENT SIGNAL
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css,react,vite,tailwind,nodejs,fastapi,postgresql,mongodb,git,github,docker,linux,vscode,vercel&theme=dark"/>
+<img src="./assets/insightai-cinematic.gif"
+width="92%"
+alt="InsightAI cinematic animation"/>
+
+<br><br>
+
+# INSIGHTAI
+
+### `DATA SHOULD BECOME INTELLIGENCE.`
 
 </div>
 
-```text
-AI / DATA   → Python • Pandas • NumPy • Scikit-learn • Gemini
-FRONTEND    → HTML • CSS • JavaScript • React • Vite • Tailwind
-BACKEND     → Node.js • FastAPI • REST APIs
-DATABASE    → PostgreSQL • MongoDB • SQL
-TOOLS       → Git • GitHub • Docker • Linux • VS Code • Vercel
-```
+**InsightAI** is my main AI/data project.
 
----
+The goal:
 
-## `05` — 🧪 LEARNING LAB
+> Give a dataset to the system and turn it into something a human can understand and act on.
 
 ```text
-Generative AI        ██████████████████░░  90%
-Machine Learning     █████████████████░░░  85%
-Data Science         █████████████████░░░  85%
-Full Stack           █████████████████░░░  85%
-Backend              ███████████████░░░░░  75%
-Docker / DevOps      ███████████░░░░░░░░  55%
-Cloud                █████████░░░░░░░░░░░  45%
-Open Source          ███████░░░░░░░░░░░░░  40%
+UPLOAD
+   ↓
+PROFILE
+   ↓
+ANALYZE
+   ↓
+VISUALIZE
+   ↓
+ASK
+   ↓
+AI INSIGHTS
+   ↓
+ML
 ```
 
+### Technology
+
+`React` `TypeScript` `Vite` `Tailwind`
+
+`FastAPI` `Python`
+
+`Pandas` `NumPy`
+
+`Scikit-learn`
+
+`Gemini`
+
+`PostgreSQL`
+
+### STATUS
+
+`● BUILDING`
+
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    GITHUB ANALYTICS                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+# ⟡ THE OTHER SYSTEMS
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    GITHUB ANALYTICS                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<table>
+<tr>
 
----
-
----
-
----
-
-## `06` — 📊 GITHUB ANALYTICS
+<td width="50%" valign="top">
 
 <div align="center">
 
-### `// DEVELOPMENT CORE`
+<img src="./assets/interviewos-cinematic.gif"
+width="100%"
+alt="InterviewOS AI"/>
 
-<br/>
+### INTERVIEWOS AI
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=dhanush080607&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050B14&title_color=00E5FF&icon_color=8B5CF6&text_color=B8F3FF"
-width="48%"
-alt="Dhanush GitHub Statistics"
-/>
+`AI × INTERVIEWS`
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush080607&layout=compact&langs_count=8&hide_border=true&bg_color=050B14&title_color=8B5CF6&text_color=B8F3FF"
-width="48%"
-alt="Dhanush Top Languages"
-/>
+</div>
 
-<br/><br/>
+AI-powered interview preparation.
 
-### `// STREAK CORE`
+**Focus**
 
-<br/>
+Interview practice
+AI-generated questions
+Preparation workflows
+Career assistance
 
-<img
-src="https://streak-stats.demolab.com/?user=dhanush080607&hide_border=true&background=050B14&ring=00E5FF&fire=EC4899&currStreakLabel=00E5FF&sideLabels=8B5CF6&currStreakNum=FFFFFF&sideNums=B8F3FF&dates=6B8A99&stroke=00E5FF"
-width="75%"
-alt="Dhanush GitHub Streak"
-/>
+<br>
 
-<br/><br/>
+**LIVE**
 
-### `// ACTIVITY MATRIX`
+https://interview-os-ai.lovable.app/
 
-<br/>
+<br>
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=dhanush080607&bg_color=050B14&color=B8F3FF&line=00E5FF&point=EC4899&area_color=8B5CF6&area=true&hide_border=true&custom_title=DHANUSH%20DEVSPACE%20%2F%2F%20CONTRIBUTION%20MATRIX"
+**SOURCE**
+
+https://github.com/dhanush080607/interview-os-ai
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="./assets/abtalks-cinematic.gif"
+width="100%"
+alt="ABTalks"/>
+
+### ABTALKS
+
+`CODE × CONSISTENCY`
+
+</div>
+
+A 60-day coding challenge platform built around daily progress.
+
+**Focus**
+
+Daily challenges
+Coding consistency
+GitHub activity
+Public progress
+
+<br>
+
+**LIVE**
+
+https://vico-dathon-pb-1.vercel.app/
+
+<br>
+
+**SOURCE**
+
+https://github.com/dhanush080607/VicoDathon-pb-1
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# ◌ THE LAB
+
+<div align="center">
+
+<img src="./assets/lab-animation.gif"
 width="95%"
-alt="Dhanush GitHub Activity"
-/>
+alt="Dhanush AI laboratory animation"/>
 
-<br/><br/>
+</div>
 
-### `// SYSTEM STATUS`
+Things I experiment with:
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                    DEVELOPMENT STATUS                       ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║   🔵 GITHUB CORE          ONLINE                             ║
-║   🟣 BUILD SYSTEM         ACTIVE                             ║
-║   🩷 CREATIVE ENGINE      ACTIVE                             ║
-║   🟢 CONTRIBUTIONS        TRACKING                           ║
-║   🟡 LEARNING ENGINE      RUNNING                            ║
-║   🔴 OPEN SOURCE          BUILDING                           ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-<```text
-╔══════════════════════════════════════════════════════════════╗
-...
-╚══════════════════════════════════════════════════════════════╝
-## `07` — 🗺️ ROADMAP
+AI
+├── Generative AI
+├── Gemini
+├── AI Applications
+└── Intelligent Workflows
 
-2025
- ├── Programming Foundations
- ├── Frontend Development
- ├── Git & GitHub
- └── Project Building
-        │
-        ▼
-2026
- ├── Generative AI
- ├── Data Science
- ├── Machine Learning
- ├── Full-Stack Applications
- ├── Deployment
- └── InsightAI
-        │
-        ▼
-NEXT LEVEL
- ├── Advanced ML
- ├── Production AI
- ├── Backend Architecture
- ├── Cloud & DevOps
- ├── Open Source
- ├── GSoC Preparation
- └── AI / ML Engineering
+ML
+├── Classification
+├── Regression
+├── Decision Trees
+└── Model Evaluation
+
+DATA
+├── Pandas
+├── NumPy
+├── Visualization
+└── Data Analysis
+
+SOFTWARE
+├── React
+├── FastAPI
+├── Node.js
+├── PostgreSQL
+└── Deployment
 ```
 
 ---
 
-## `08` — 💡 DEVELOPER MINDSET
+# ✦ TECHNOLOGY FIELD
 
 <div align="center">
 
-### **BUILD WHAT YOU CAN'T EXPLAIN YET.**
+<img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css&theme=dark"/>
 
-`LEARN` → `BUILD` → `FAIL` → `DEBUG` → `DEPLOY` → `IMPROVE`
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,fastapi&theme=dark"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,git,github,docker,linux,vscode,vercel&theme=dark"/>
+
+<br><br>
+
+`Pandas` · `NumPy` · `Scikit-learn` · `Gemini`
 
 </div>
 
 ---
 
-## `09` — 📡 CONNECT
+# ◎ THE EVOLUTION
 
 <div align="center">
 
-<a href="https://github.com/dhanush080607"><img src="https://img.shields.io/badge/GitHub-Dhanush-050505?style=for-the-badge&logo=github&logoColor=00E5FF"/></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-050505?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/></a>
-<a href="https://dhanush-portfolio1-two.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-050505?style=for-the-badge&logo=vercel&logoColor=00E5FF"/></a>
+<img src="./assets/evolution-animation.gif"
+width="95%"
+alt="Dhanush development evolution"/>
 
-<br/><br/>
+</div>
 
-<img src="./assets/dhanush-neon-footer.gif" width="100%" alt="Dhanush DevSpace animated footer"/>
+```text
+2025
+   ↓
+PROGRAMMING
+   ↓
+WEB
+   ↓
+PROJECTS
+   ↓
+2026
+   ↓
+DATA
+   ↓
+MACHINE LEARNING
+   ↓
+GENERATIVE AI
+   ↓
+FULL STACK
+   ↓
+AI PRODUCTS
+   ↓
+NEXT
+   ↓
+AI / ML ENGINEERING
+```
 
-### ⚡ `BUILDING IN PUBLIC.`
+---
 
-### 🧠 `LEARNING EVERY DAY.`
+# ∞ WHAT I'M CHASING
 
-### 🚀 `CREATING WHAT'S NEXT.`
+Not another list of technologies.
 
-<br/>
+A direction.
 
-<sub>© 2026 Dhanush • Built with curiosity, code & caffeine ☕</sub>
+<div align="center">
+
+### `DATA`
+
+↓
+
+### `INTELLIGENCE`
+
+↓
+
+### `SOFTWARE`
+
+↓
+
+### `IMPACT`
+
+</div>
+
+Currently moving toward:
+
+`ADVANCED MACHINE LEARNING`
+
+`PRODUCTION AI`
+
+`AI AGENTS`
+
+`MLOPS`
+
+`CLOUD`
+
+`SYSTEM DESIGN`
+
+`OPEN SOURCE`
+
+---
+
+# ◇ GITHUB / SIGNAL
+
+<div align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=dhanush080607&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=09090D&title_color=FFFFFF&icon_color=FFFFFF&text_color=C8C8D0"
+width="48%"
+alt="GitHub statistics"/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush080607&layout=compact&langs_count=8&hide_border=true&bg_color=09090D&title_color=FFFFFF&text_color=C8C8D0"
+width="48%"
+alt="Top languages"/>
+
+<br><br>
+
+<img
+src="https://streak-stats.demolab.com/?user=dhanush080607&hide_border=true&background=09090D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C8C8D0&currStreakNum=FFFFFF&sideNums=C8C8D0&dates=777780&stroke=FFFFFF"
+width="70%"
+alt="GitHub streak"/>
+
+</div>
+
+---
+
+# ◌ PRINCIPLES
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+
+### 01
+
+**BUILD**
+
+Knowledge becomes real
+when something works.
+
+</td>
+
+<td align="center">
+
+### 02
+
+**BREAK**
+
+Every bug reveals
+something new.
+
+</td>
+
+<td align="center">
+
+### 03
+
+**ITERATE**
+
+Version one
+is never the final version.
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="./assets/synapse-footer.gif"
+width="100%"
+alt="Dhanush Synapse animated footer"/>
+
+<br><br>
+
+# DHANUSH
+
+### `AI / DATA / SOFTWARE`
+
+<br>
+
+**THE SYSTEM IS STILL LEARNING.**
+
+<br><br>
+
+<a href="https://github.com/dhanush080607">
+<img src="https://img.shields.io/badge/EXPLORE-111111?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+<a href="https://dhanush-portfolio1-two.vercel.app/">
+<img src="https://img.shields.io/badge/ENTER-111111?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
+</a>
+
+<br><br>
+
+<sub>© 2026 Dhanush</sub>
 
 </div>
