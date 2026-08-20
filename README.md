@@ -693,24 +693,6 @@ I believe technology becomes meaningful when
 
 # 📊 THE TELEMETRY
 
-<p align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhanush080607&show_icons=true&theme=dark&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=050505"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhanush080607&layout=compact&theme=dark&hide_border=true&title_color=FF0000&text_color=FFFFFF&bg_color=050505"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=dhanush080607&theme=dark&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=FF0000"/>
-
-</p>
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhanush080607&theme=dark&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=FF0000)
 
 <!-- Activity Graph -->
