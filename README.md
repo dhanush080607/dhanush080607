@@ -109,17 +109,17 @@ Currently upgrading: Generative AI · Machine Learning · Data Science · FastAP
 
 # 📊 THE TELEMETRY
 
+<!-- GitHub Stats -->
 ![Dhanush's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanush080607&show_icons=true&theme=dark&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=050505)
 
+<!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush080607&layout=compact&theme=dark&hide_border=true&title_color=FF0000&text_color=FFFFFF&bg_color=050505)
 
+<!-- Streak Stats -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhanush080607&theme=dark&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=FF0000)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dhanush080607&theme=darkhub&no-frame=true&margin-w=10&title=Stars,Followers,Commits,Repositories,Issues,PullRequest)
-
+<!-- Activity Graph -->
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhanush080607&theme=redical)
-
-![Contribution Snake](https://github.com/dhanush080607/dhanush080607/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
