@@ -166,7 +166,6 @@ width="48%"
 alt="Dhanush Top Languages"
 />
 
-<br/><br/>
 
 ### `// STREAK CORE`
 
