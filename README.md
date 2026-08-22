@@ -149,24 +149,6 @@ Open Source          ███████░░░░░░░░░░░░�
 ## `06` — 📊 GITHUB ANALYTICS
 
 <div align="center">
-
-### `// DEVELOPMENT CORE`
-
-<br/>
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=dhanush080607&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050B14&title_color=00E5FF&icon_color=8B5CF6&text_color=B8F3FF"
-width="48%"
-alt="Dhanush GitHub Statistics"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush080607&layout=compact&langs_count=8&hide_border=true&bg_color=050B14&title_color=8B5CF6&text_color=B8F3FF"
-width="48%"
-alt="Dhanush Top Languages"
-/>
-
-
 ### `// STREAK CORE`
 
 <br/>
